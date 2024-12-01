@@ -1,0 +1,1420 @@
+[2024-11-02 04:20:24] Running product import via cron.
+[2024-11-02 04:20:24] Starting Import 50 products from page 68
+[2024-11-02 04:20:25] Starting product import for SKU: 1488280
+[2024-11-02 04:20:27] Successfully fetched price data for product UID: 1488280
+[2024-11-02 04:20:27] Price updated for product UID: 1488280 (ID: 106942)
+[2024-11-02 04:20:27] Successfully fetched inventory data for product UID: 1488280
+[2024-11-02 04:20:27] Inventory updated for product UID: 1488280 (ID: 106942)
+[2024-11-02 04:20:27] Product not updated for SKU: 1488280. Last updated is not greater.
+[2024-11-02 04:20:27] Starting product import for SKU: 1488268
+[2024-11-02 04:20:28] Successfully fetched price data for product UID: 1488268
+[2024-11-02 04:20:28] Price updated for product UID: 1488268 (ID: 106944)
+[2024-11-02 04:20:28] Successfully fetched inventory data for product UID: 1488268
+[2024-11-02 04:20:28] Inventory updated for product UID: 1488268 (ID: 106944)
+[2024-11-02 04:20:28] Product not updated for SKU: 1488268. Last updated is not greater.
+[2024-11-02 04:20:28] Starting product import for SKU: 1488266
+[2024-11-02 04:20:29] Successfully fetched price data for product UID: 1488266
+[2024-11-02 04:20:29] Price updated for product UID: 1488266 (ID: 106946)
+[2024-11-02 04:20:30] Successfully fetched inventory data for product UID: 1488266
+[2024-11-02 04:20:30] Inventory updated for product UID: 1488266 (ID: 106946)
+[2024-11-02 04:20:30] Product not updated for SKU: 1488266. Last updated is not greater.
+[2024-11-02 04:20:30] Starting product import for SKU: 1488262
+[2024-11-02 04:20:31] Successfully fetched price data for product UID: 1488262
+[2024-11-02 04:20:31] Price updated for product UID: 1488262 (ID: 106948)
+[2024-11-02 04:20:32] Successfully fetched inventory data for product UID: 1488262
+[2024-11-02 04:20:32] Inventory updated for product UID: 1488262 (ID: 106948)
+[2024-11-02 04:20:32] Product not updated for SKU: 1488262. Last updated is not greater.
+[2024-11-02 04:20:32] Starting product import for SKU: 1488259
+[2024-11-02 04:20:33] Successfully fetched price data for product UID: 1488259
+[2024-11-02 04:20:33] Price updated for product UID: 1488259 (ID: 106950)
+[2024-11-02 04:20:33] Successfully fetched inventory data for product UID: 1488259
+[2024-11-02 04:20:33] Inventory updated for product UID: 1488259 (ID: 106950)
+[2024-11-02 04:20:33] Product not updated for SKU: 1488259. Last updated is not greater.
+[2024-11-02 04:20:33] Starting product import for SKU: 1488258
+[2024-11-02 04:20:34] Successfully fetched price data for product UID: 1488258
+[2024-11-02 04:20:34] Price updated for product UID: 1488258 (ID: 106952)
+[2024-11-02 04:20:35] Successfully fetched inventory data for product UID: 1488258
+[2024-11-02 04:20:35] Inventory updated for product UID: 1488258 (ID: 106952)
+[2024-11-02 04:20:35] Product not updated for SKU: 1488258. Last updated is not greater.
+[2024-11-02 04:20:35] Starting product import for SKU: 1488256
+[2024-11-02 04:20:36] Successfully fetched price data for product UID: 1488256
+[2024-11-02 04:20:36] Price updated for product UID: 1488256 (ID: 106954)
+[2024-11-02 04:20:36] Successfully fetched inventory data for product UID: 1488256
+[2024-11-02 04:20:36] Inventory updated for product UID: 1488256 (ID: 106954)
+[2024-11-02 04:20:36] Product not updated for SKU: 1488256. Last updated is not greater.
+[2024-11-02 04:20:36] Starting product import for SKU: 1488251
+[2024-11-02 04:20:37] Successfully fetched price data for product UID: 1488251
+[2024-11-02 04:20:37] Price updated for product UID: 1488251 (ID: 106956)
+[2024-11-02 04:20:38] Successfully fetched inventory data for product UID: 1488251
+[2024-11-02 04:20:38] Inventory updated for product UID: 1488251 (ID: 106956)
+[2024-11-02 04:20:38] Product not updated for SKU: 1488251. Last updated is not greater.
+[2024-11-02 04:20:38] Starting product import for SKU: 1488249
+[2024-11-02 04:20:39] Successfully fetched price data for product UID: 1488249
+[2024-11-02 04:20:39] Price updated for product UID: 1488249 (ID: 106958)
+[2024-11-02 04:20:39] Successfully fetched inventory data for product UID: 1488249
+[2024-11-02 04:20:39] Inventory updated for product UID: 1488249 (ID: 106958)
+[2024-11-02 04:20:39] Product not updated for SKU: 1488249. Last updated is not greater.
+[2024-11-02 04:20:39] Starting product import for SKU: 1488244
+[2024-11-02 04:20:40] Successfully fetched price data for product UID: 1488244
+[2024-11-02 04:20:40] Price updated for product UID: 1488244 (ID: 106960)
+[2024-11-02 04:20:40] Successfully fetched inventory data for product UID: 1488244
+[2024-11-02 04:20:40] Inventory updated for product UID: 1488244 (ID: 106960)
+[2024-11-02 04:20:40] Product not updated for SKU: 1488244. Last updated is not greater.
+[2024-11-02 04:20:40] Starting product import for SKU: 1488243
+[2024-11-02 04:20:41] Successfully fetched price data for product UID: 1488243
+[2024-11-02 04:20:41] Price updated for product UID: 1488243 (ID: 106962)
+[2024-11-02 04:20:42] Successfully fetched inventory data for product UID: 1488243
+[2024-11-02 04:20:42] Inventory updated for product UID: 1488243 (ID: 106962)
+[2024-11-02 04:20:42] Product not updated for SKU: 1488243. Last updated is not greater.
+[2024-11-02 04:20:42] Starting product import for SKU: 1488242
+[2024-11-02 04:20:43] Successfully fetched price data for product UID: 1488242
+[2024-11-02 04:20:43] Price updated for product UID: 1488242 (ID: 106964)
+[2024-11-02 04:20:43] Successfully fetched inventory data for product UID: 1488242
+[2024-11-02 04:20:43] Inventory updated for product UID: 1488242 (ID: 106964)
+[2024-11-02 04:20:43] Product not updated for SKU: 1488242. Last updated is not greater.
+[2024-11-02 04:20:43] Starting product import for SKU: 1488241
+[2024-11-02 04:20:44] Successfully fetched price data for product UID: 1488241
+[2024-11-02 04:20:44] Price updated for product UID: 1488241 (ID: 106966)
+[2024-11-02 04:20:45] Successfully fetched inventory data for product UID: 1488241
+[2024-11-02 04:20:45] Inventory updated for product UID: 1488241 (ID: 106966)
+[2024-11-02 04:20:45] Product not updated for SKU: 1488241. Last updated is not greater.
+[2024-11-02 04:20:45] Starting product import for SKU: 1488240
+[2024-11-02 04:20:46] Successfully fetched price data for product UID: 1488240
+[2024-11-02 04:20:46] Price updated for product UID: 1488240 (ID: 106968)
+[2024-11-02 04:20:46] Successfully fetched inventory data for product UID: 1488240
+[2024-11-02 04:20:46] Inventory updated for product UID: 1488240 (ID: 106968)
+[2024-11-02 04:20:46] Product not updated for SKU: 1488240. Last updated is not greater.
+[2024-11-02 04:20:46] Starting product import for SKU: 1488239
+[2024-11-02 04:20:47] Successfully fetched price data for product UID: 1488239
+[2024-11-02 04:20:47] Price updated for product UID: 1488239 (ID: 106970)
+[2024-11-02 04:20:48] Successfully fetched inventory data for product UID: 1488239
+[2024-11-02 04:20:48] Inventory updated for product UID: 1488239 (ID: 106970)
+[2024-11-02 04:20:48] Product not updated for SKU: 1488239. Last updated is not greater.
+[2024-11-02 04:20:48] Starting product import for SKU: 1488238
+[2024-11-02 04:20:49] Successfully fetched price data for product UID: 1488238
+[2024-11-02 04:20:49] Price updated for product UID: 1488238 (ID: 106972)
+[2024-11-02 04:20:49] Successfully fetched inventory data for product UID: 1488238
+[2024-11-02 04:20:49] Inventory updated for product UID: 1488238 (ID: 106972)
+[2024-11-02 04:20:49] Product not updated for SKU: 1488238. Last updated is not greater.
+[2024-11-02 04:20:49] Starting product import for SKU: 1488237
+[2024-11-02 04:20:50] Successfully fetched price data for product UID: 1488237
+[2024-11-02 04:20:50] Price updated for product UID: 1488237 (ID: 106974)
+[2024-11-02 04:20:50] Successfully fetched inventory data for product UID: 1488237
+[2024-11-02 04:20:51] Inventory updated for product UID: 1488237 (ID: 106974)
+[2024-11-02 04:20:51] Product not updated for SKU: 1488237. Last updated is not greater.
+[2024-11-02 04:20:51] Starting product import for SKU: 1488236
+[2024-11-02 04:20:52] Successfully fetched price data for product UID: 1488236
+[2024-11-02 04:20:52] Price updated for product UID: 1488236 (ID: 106976)
+[2024-11-02 04:20:52] Successfully fetched inventory data for product UID: 1488236
+[2024-11-02 04:20:52] Inventory updated for product UID: 1488236 (ID: 106976)
+[2024-11-02 04:20:52] Product not updated for SKU: 1488236. Last updated is not greater.
+[2024-11-02 04:20:52] Starting product import for SKU: 1488234
+[2024-11-02 04:20:53] Successfully fetched price data for product UID: 1488234
+[2024-11-02 04:20:53] Price updated for product UID: 1488234 (ID: 106978)
+[2024-11-02 04:20:54] Successfully fetched inventory data for product UID: 1488234
+[2024-11-02 04:20:54] Inventory updated for product UID: 1488234 (ID: 106978)
+[2024-11-02 04:20:54] Product not updated for SKU: 1488234. Last updated is not greater.
+[2024-11-02 04:20:54] Starting product import for SKU: 1488233
+[2024-11-02 04:20:54] Successfully fetched price data for product UID: 1488233
+[2024-11-02 04:20:54] Price updated for product UID: 1488233 (ID: 106980)
+[2024-11-02 04:20:55] Successfully fetched inventory data for product UID: 1488233
+[2024-11-02 04:20:55] Inventory updated for product UID: 1488233 (ID: 106980)
+[2024-11-02 04:20:55] Product not updated for SKU: 1488233. Last updated is not greater.
+[2024-11-02 04:20:55] Starting product import for SKU: 1488232
+[2024-11-02 04:20:56] Successfully fetched price data for product UID: 1488232
+[2024-11-02 04:20:56] Price updated for product UID: 1488232 (ID: 106982)
+[2024-11-02 04:20:56] Successfully fetched inventory data for product UID: 1488232
+[2024-11-02 04:20:56] Inventory updated for product UID: 1488232 (ID: 106982)
+[2024-11-02 04:20:56] Product not updated for SKU: 1488232. Last updated is not greater.
+[2024-11-02 04:20:56] Starting product import for SKU: 1488231
+[2024-11-02 04:20:57] Successfully fetched price data for product UID: 1488231
+[2024-11-02 04:20:57] Price updated for product UID: 1488231 (ID: 106984)
+[2024-11-02 04:20:57] Successfully fetched inventory data for product UID: 1488231
+[2024-11-02 04:20:57] Inventory updated for product UID: 1488231 (ID: 106984)
+[2024-11-02 04:20:57] Product not updated for SKU: 1488231. Last updated is not greater.
+[2024-11-02 04:20:57] Starting product import for SKU: 1488230
+[2024-11-02 04:20:58] Successfully fetched price data for product UID: 1488230
+[2024-11-02 04:20:58] Price updated for product UID: 1488230 (ID: 106986)
+[2024-11-02 04:20:59] Successfully fetched inventory data for product UID: 1488230
+[2024-11-02 04:20:59] Inventory updated for product UID: 1488230 (ID: 106986)
+[2024-11-02 04:20:59] Product not updated for SKU: 1488230. Last updated is not greater.
+[2024-11-02 04:20:59] Starting product import for SKU: 1488229
+[2024-11-02 04:21:00] Successfully fetched price data for product UID: 1488229
+[2024-11-02 04:21:00] Price updated for product UID: 1488229 (ID: 106988)
+[2024-11-02 04:21:00] Successfully fetched inventory data for product UID: 1488229
+[2024-11-02 04:21:00] Inventory updated for product UID: 1488229 (ID: 106988)
+[2024-11-02 04:21:00] Product not updated for SKU: 1488229. Last updated is not greater.
+[2024-11-02 04:21:00] Starting product import for SKU: 1488228
+[2024-11-02 04:21:01] Successfully fetched price data for product UID: 1488228
+[2024-11-02 04:21:01] Price updated for product UID: 1488228 (ID: 106990)
+[2024-11-02 04:21:02] Successfully fetched inventory data for product UID: 1488228
+[2024-11-02 04:21:02] Inventory updated for product UID: 1488228 (ID: 106990)
+[2024-11-02 04:21:02] Product not updated for SKU: 1488228. Last updated is not greater.
+[2024-11-02 04:21:02] Starting product import for SKU: 1488227
+[2024-11-02 04:21:03] Successfully fetched price data for product UID: 1488227
+[2024-11-02 04:21:03] Price updated for product UID: 1488227 (ID: 106992)
+[2024-11-02 04:21:03] Successfully fetched inventory data for product UID: 1488227
+[2024-11-02 04:21:03] Inventory updated for product UID: 1488227 (ID: 106992)
+[2024-11-02 04:21:03] Product not updated for SKU: 1488227. Last updated is not greater.
+[2024-11-02 04:21:03] Starting product import for SKU: 1488226
+[2024-11-02 04:21:04] Successfully fetched price data for product UID: 1488226
+[2024-11-02 04:21:04] Price updated for product UID: 1488226 (ID: 106994)
+[2024-11-02 04:21:04] Successfully fetched inventory data for product UID: 1488226
+[2024-11-02 04:21:04] Inventory updated for product UID: 1488226 (ID: 106994)
+[2024-11-02 04:21:04] Product not updated for SKU: 1488226. Last updated is not greater.
+[2024-11-02 04:21:04] Starting product import for SKU: 1488222
+[2024-11-02 04:21:05] Successfully fetched price data for product UID: 1488222
+[2024-11-02 04:21:05] Price updated for product UID: 1488222 (ID: 106996)
+[2024-11-02 04:21:06] Successfully fetched inventory data for product UID: 1488222
+[2024-11-02 04:21:06] Inventory updated for product UID: 1488222 (ID: 106996)
+[2024-11-02 04:21:06] Product not updated for SKU: 1488222. Last updated is not greater.
+[2024-11-02 04:21:06] Starting product import for SKU: 1488220
+[2024-11-02 04:21:07] Successfully fetched price data for product UID: 1488220
+[2024-11-02 04:21:07] Price updated for product UID: 1488220 (ID: 106998)
+[2024-11-02 04:21:07] Successfully fetched inventory data for product UID: 1488220
+[2024-11-02 04:21:07] Inventory updated for product UID: 1488220 (ID: 106998)
+[2024-11-02 04:21:07] Product not updated for SKU: 1488220. Last updated is not greater.
+[2024-11-02 04:21:07] Starting product import for SKU: 1488218
+[2024-11-02 04:21:08] Successfully fetched price data for product UID: 1488218
+[2024-11-02 04:21:08] Price updated for product UID: 1488218 (ID: 107000)
+[2024-11-02 04:21:09] Successfully fetched inventory data for product UID: 1488218
+[2024-11-02 04:21:09] Inventory updated for product UID: 1488218 (ID: 107000)
+[2024-11-02 04:21:09] Product not updated for SKU: 1488218. Last updated is not greater.
+[2024-11-02 04:21:09] Starting product import for SKU: 1488216
+[2024-11-02 04:21:10] Successfully fetched price data for product UID: 1488216
+[2024-11-02 04:21:10] Price updated for product UID: 1488216 (ID: 107002)
+[2024-11-02 04:21:10] Successfully fetched inventory data for product UID: 1488216
+[2024-11-02 04:21:10] Inventory updated for product UID: 1488216 (ID: 107002)
+[2024-11-02 04:21:10] Product not updated for SKU: 1488216. Last updated is not greater.
+[2024-11-02 04:21:10] Starting product import for SKU: 1488215
+[2024-11-02 04:21:11] Successfully fetched price data for product UID: 1488215
+[2024-11-02 04:21:11] Price updated for product UID: 1488215 (ID: 107004)
+[2024-11-02 04:21:11] Successfully fetched inventory data for product UID: 1488215
+[2024-11-02 04:21:11] Inventory updated for product UID: 1488215 (ID: 107004)
+[2024-11-02 04:21:11] Product not updated for SKU: 1488215. Last updated is not greater.
+[2024-11-02 04:21:11] Starting product import for SKU: 1488214
+[2024-11-02 04:21:12] Successfully fetched price data for product UID: 1488214
+[2024-11-02 04:21:12] Price updated for product UID: 1488214 (ID: 107006)
+[2024-11-02 04:21:13] Successfully fetched inventory data for product UID: 1488214
+[2024-11-02 04:21:13] Inventory updated for product UID: 1488214 (ID: 107006)
+[2024-11-02 04:21:13] Product not updated for SKU: 1488214. Last updated is not greater.
+[2024-11-02 04:21:13] Starting product import for SKU: 1488205
+[2024-11-02 04:21:14] Successfully fetched price data for product UID: 1488205
+[2024-11-02 04:21:14] Price updated for product UID: 1488205 (ID: 107008)
+[2024-11-02 04:21:14] Successfully fetched inventory data for product UID: 1488205
+[2024-11-02 04:21:14] Inventory updated for product UID: 1488205 (ID: 107008)
+[2024-11-02 04:21:14] Product not updated for SKU: 1488205. Last updated is not greater.
+[2024-11-02 04:21:14] Starting product import for SKU: 1488200
+[2024-11-02 04:21:15] Successfully fetched price data for product UID: 1488200
+[2024-11-02 04:21:15] Price updated for product UID: 1488200 (ID: 107010)
+[2024-11-02 04:21:16] Successfully fetched inventory data for product UID: 1488200
+[2024-11-02 04:21:16] Inventory updated for product UID: 1488200 (ID: 107010)
+[2024-11-02 04:21:16] Product not updated for SKU: 1488200. Last updated is not greater.
+[2024-11-02 04:21:16] Starting product import for SKU: 1488196
+[2024-11-02 04:21:17] Successfully fetched price data for product UID: 1488196
+[2024-11-02 04:21:17] Price updated for product UID: 1488196 (ID: 107012)
+[2024-11-02 04:21:17] Successfully fetched inventory data for product UID: 1488196
+[2024-11-02 04:21:17] Inventory updated for product UID: 1488196 (ID: 107012)
+[2024-11-02 04:21:17] Product not updated for SKU: 1488196. Last updated is not greater.
+[2024-11-02 04:21:17] Starting product import for SKU: 1488195
+[2024-11-02 04:21:18] Successfully fetched price data for product UID: 1488195
+[2024-11-02 04:21:18] Price updated for product UID: 1488195 (ID: 107014)
+[2024-11-02 04:21:18] Successfully fetched inventory data for product UID: 1488195
+[2024-11-02 04:21:18] Inventory updated for product UID: 1488195 (ID: 107014)
+[2024-11-02 04:21:18] Product not updated for SKU: 1488195. Last updated is not greater.
+[2024-11-02 04:21:18] Starting product import for SKU: 1488167
+[2024-11-02 04:21:19] Successfully fetched price data for product UID: 1488167
+[2024-11-02 04:21:19] Price updated for product UID: 1488167 (ID: 107016)
+[2024-11-02 04:21:20] Invalid inventory data for product UID: 1488167
+[2024-11-02 04:21:20] Product not updated for SKU: 1488167. Last updated is not greater.
+[2024-11-02 04:21:20] Starting product import for SKU: 1488166
+[2024-11-02 04:21:20] Successfully fetched price data for product UID: 1488166
+[2024-11-02 04:21:20] Price updated for product UID: 1488166 (ID: 107018)
+[2024-11-02 04:21:20] Invalid inventory data for product UID: 1488166
+[2024-11-02 04:21:20] Product not updated for SKU: 1488166. Last updated is not greater.
+[2024-11-02 04:21:20] Starting product import for SKU: 1488165
+[2024-11-02 04:21:21] Successfully fetched price data for product UID: 1488165
+[2024-11-02 04:21:21] Price updated for product UID: 1488165 (ID: 107020)
+[2024-11-02 04:21:21] Invalid inventory data for product UID: 1488165
+[2024-11-02 04:21:21] Product not updated for SKU: 1488165. Last updated is not greater.
+[2024-11-02 04:21:21] Starting product import for SKU: 1488164
+[2024-11-02 04:21:21] Successfully fetched price data for product UID: 1488164
+[2024-11-02 04:21:21] Price updated for product UID: 1488164 (ID: 107022)
+[2024-11-02 04:21:22] Invalid inventory data for product UID: 1488164
+[2024-11-02 04:21:22] Product not updated for SKU: 1488164. Last updated is not greater.
+[2024-11-02 04:21:22] Starting product import for SKU: 1488163
+[2024-11-02 04:21:22] Successfully fetched price data for product UID: 1488163
+[2024-11-02 04:21:22] Price updated for product UID: 1488163 (ID: 107024)
+[2024-11-02 04:21:22] Invalid inventory data for product UID: 1488163
+[2024-11-02 04:21:22] Product not updated for SKU: 1488163. Last updated is not greater.
+[2024-11-02 04:21:22] Starting product import for SKU: 1488162
+[2024-11-02 04:21:23] Successfully fetched price data for product UID: 1488162
+[2024-11-02 04:21:23] Price updated for product UID: 1488162 (ID: 107026)
+[2024-11-02 04:21:23] Invalid inventory data for product UID: 1488162
+[2024-11-02 04:21:23] Product not updated for SKU: 1488162. Last updated is not greater.
+[2024-11-02 04:21:23] Starting product import for SKU: 1488161
+[2024-11-02 04:21:23] Successfully fetched price data for product UID: 1488161
+[2024-11-02 04:21:23] Price updated for product UID: 1488161 (ID: 107028)
+[2024-11-02 04:21:24] Invalid inventory data for product UID: 1488161
+[2024-11-02 04:21:24] Product not updated for SKU: 1488161. Last updated is not greater.
+[2024-11-02 04:21:24] Starting product import for SKU: 1488159
+[2024-11-02 04:21:24] Successfully fetched price data for product UID: 1488159
+[2024-11-02 04:21:24] Price updated for product UID: 1488159 (ID: 107030)
+[2024-11-02 04:21:24] Invalid inventory data for product UID: 1488159
+[2024-11-02 04:21:24] Product not updated for SKU: 1488159. Last updated is not greater.
+[2024-11-02 04:21:24] Starting product import for SKU: 1488157
+[2024-11-02 04:21:25] Successfully fetched price data for product UID: 1488157
+[2024-11-02 04:21:25] Price updated for product UID: 1488157 (ID: 107032)
+[2024-11-02 04:21:25] Successfully fetched inventory data for product UID: 1488157
+[2024-11-02 04:21:25] Inventory updated for product UID: 1488157 (ID: 107032)
+[2024-11-02 04:21:25] Product not updated for SKU: 1488157. Last updated is not greater.
+[2024-11-02 04:21:25] Starting product import for SKU: 1488156
+[2024-11-02 04:21:25] Successfully fetched price data for product UID: 1488156
+[2024-11-02 04:21:25] Price updated for product UID: 1488156 (ID: 107165)
+[2024-11-02 04:21:26] Invalid inventory data for product UID: 1488156
+[2024-11-02 04:21:26] Product not updated for SKU: 1488156. Last updated is not greater.
+[2024-11-02 04:21:26] Starting product import for SKU: 1488155
+[2024-11-02 04:21:26] Successfully fetched price data for product UID: 1488155
+[2024-11-02 04:21:26] Price updated for product UID: 1488155 (ID: 107167)
+[2024-11-02 04:21:26] Invalid inventory data for product UID: 1488155
+[2024-11-02 04:21:26] Product not updated for SKU: 1488155. Last updated is not greater.
+[2024-11-02 04:21:26] Starting product import for SKU: 1488153
+[2024-11-02 04:21:27] Successfully fetched price data for product UID: 1488153
+[2024-11-02 04:21:27] Price updated for product UID: 1488153 (ID: 107169)
+[2024-11-02 04:21:27] Invalid inventory data for product UID: 1488153
+[2024-11-02 04:21:27] Product not updated for SKU: 1488153. Last updated is not greater.
+[2024-11-02 04:21:27] Starting product import for SKU: 1488151
+[2024-11-02 04:21:27] Successfully fetched price data for product UID: 1488151
+[2024-11-02 04:21:27] Price updated for product UID: 1488151 (ID: 107171)
+[2024-11-02 04:21:28] Invalid inventory data for product UID: 1488151
+[2024-11-02 04:21:28] Product updated with ID: 107171 for SKU: 1488151
+[2024-11-02 04:21:28] Fetching category with UID: 10085
+[2024-11-02 04:21:28] Product meta updated for product ID: 107171
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488280
+[2024-11-02 04:21:28] Product not updated for SKU: 1488280. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488268
+[2024-11-02 04:21:28] Product not updated for SKU: 1488268. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488266
+[2024-11-02 04:21:28] Product not updated for SKU: 1488266. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488262
+[2024-11-02 04:21:28] Product not updated for SKU: 1488262. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488259
+[2024-11-02 04:21:28] Product not updated for SKU: 1488259. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488258
+[2024-11-02 04:21:28] Product not updated for SKU: 1488258. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488256
+[2024-11-02 04:21:28] Product not updated for SKU: 1488256. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488251
+[2024-11-02 04:21:28] Product not updated for SKU: 1488251. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488249
+[2024-11-02 04:21:28] Product not updated for SKU: 1488249. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488244
+[2024-11-02 04:21:28] Product not updated for SKU: 1488244. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488243
+[2024-11-02 04:21:28] Product not updated for SKU: 1488243. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488242
+[2024-11-02 04:21:28] Product not updated for SKU: 1488242. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488241
+[2024-11-02 04:21:28] Product not updated for SKU: 1488241. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488240
+[2024-11-02 04:21:28] Product not updated for SKU: 1488240. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488239
+[2024-11-02 04:21:28] Product not updated for SKU: 1488239. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488238
+[2024-11-02 04:21:28] Product not updated for SKU: 1488238. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488237
+[2024-11-02 04:21:28] Product not updated for SKU: 1488237. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488236
+[2024-11-02 04:21:28] Product not updated for SKU: 1488236. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488234
+[2024-11-02 04:21:28] Product not updated for SKU: 1488234. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488233
+[2024-11-02 04:21:28] Product not updated for SKU: 1488233. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488232
+[2024-11-02 04:21:28] Product not updated for SKU: 1488232. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488231
+[2024-11-02 04:21:28] Product not updated for SKU: 1488231. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488230
+[2024-11-02 04:21:28] Product not updated for SKU: 1488230. Last updated is not greater.
+[2024-11-02 04:21:28] Starting product images import for SKU: 1488229
+[2024-11-02 04:21:29] Product not updated for SKU: 1488229. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488228
+[2024-11-02 04:21:29] Product not updated for SKU: 1488228. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488227
+[2024-11-02 04:21:29] Product not updated for SKU: 1488227. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488226
+[2024-11-02 04:21:29] Product not updated for SKU: 1488226. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488222
+[2024-11-02 04:21:29] Product not updated for SKU: 1488222. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488220
+[2024-11-02 04:21:29] Product not updated for SKU: 1488220. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488218
+[2024-11-02 04:21:29] Product not updated for SKU: 1488218. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488216
+[2024-11-02 04:21:29] Product not updated for SKU: 1488216. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488215
+[2024-11-02 04:21:29] Product not updated for SKU: 1488215. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488214
+[2024-11-02 04:21:29] Product not updated for SKU: 1488214. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488205
+[2024-11-02 04:21:29] Product not updated for SKU: 1488205. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488200
+[2024-11-02 04:21:29] Product not updated for SKU: 1488200. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488196
+[2024-11-02 04:21:29] Product not updated for SKU: 1488196. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488195
+[2024-11-02 04:21:29] Product not updated for SKU: 1488195. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488167
+[2024-11-02 04:21:29] Product not updated for SKU: 1488167. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488166
+[2024-11-02 04:21:29] Product not updated for SKU: 1488166. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488165
+[2024-11-02 04:21:29] Product not updated for SKU: 1488165. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488164
+[2024-11-02 04:21:29] Product not updated for SKU: 1488164. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488163
+[2024-11-02 04:21:29] Product not updated for SKU: 1488163. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488162
+[2024-11-02 04:21:29] Product not updated for SKU: 1488162. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488161
+[2024-11-02 04:21:29] Product not updated for SKU: 1488161. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488159
+[2024-11-02 04:21:29] Product not updated for SKU: 1488159. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488157
+[2024-11-02 04:21:29] Product not updated for SKU: 1488157. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488156
+[2024-11-02 04:21:29] Product not updated for SKU: 1488156. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488155
+[2024-11-02 04:21:29] Product not updated for SKU: 1488155. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488153
+[2024-11-02 04:21:29] Product not updated for SKU: 1488153. Last updated is not greater.
+[2024-11-02 04:21:29] Starting product images import for SKU: 1488151
+[2024-11-02 04:21:29] Fetching assets for product UID: 1488151
+[2024-11-02 04:21:31] Image already exists in media library: https://rezasrugs.com/productsFolder/1488151/254955/image-thumb__254955__product_gallery_preview/1488151-295X195.jpg
+[2024-11-02 04:21:31] Image already exists in media library: https://rezasrugs.com/productsFolder/1488151/254941/image-thumb__254941__product_gallery_preview/1488151-1.jpg
+[2024-11-02 04:21:31] Image already exists in media library: https://rezasrugs.com/productsFolder/1488151/254923/image-thumb__254923__product_gallery_preview/1488151-2.jpg
+[2024-11-02 04:21:44] Image successfully imported: https://rezasrugs.com/productsFolder/1488151/254939/image-thumb__254939__product_gallery_preview/1488151-3.jpg
+[2024-11-02 04:21:54] Image successfully imported: https://rezasrugs.com/productsFolder/1488151/254936/image-thumb__254936__product_gallery_preview/1488151-4.jpg
+[2024-11-02 04:21:54] Images set for product ID: 107171
+[2024-11-02 04:21:54] Imported 50 products from page 69
+[2024-11-02 04:21:54] Product import completed.
+[2024-11-02 09:47:46] Running product import via cron.
+[2024-11-02 09:47:46] Starting Import 50 products from page 69
+[2024-11-02 09:47:46] Starting product import for SKU: 1488149
+[2024-11-02 09:47:47] Successfully fetched price data for product UID: 1488149
+[2024-11-02 09:47:47] Price updated for product UID: 1488149 (ID: 107173)
+[2024-11-02 09:47:48] Invalid inventory data for product UID: 1488149
+[2024-11-02 09:47:48] Product updated with ID: 107173 for SKU: 1488149
+[2024-11-02 09:47:48] Fetching category with UID: 10085
+[2024-11-02 09:47:48] Product meta updated for product ID: 107173
+[2024-11-02 09:47:48] Starting product import for SKU: 1488148
+[2024-11-02 09:47:48] Product created with ID: 107446 for SKU: 1488148
+[2024-11-02 09:47:49] Successfully fetched price data for product UID: 1488148
+[2024-11-02 09:47:49] Price updated for product UID: 1488148 (ID: 107446)
+[2024-11-02 09:47:49] Invalid inventory data for product UID: 1488148
+[2024-11-02 09:47:49] Fetching category with UID: 10085
+[2024-11-02 09:47:49] Category 'Keshan Fine' set for product ID: 107446
+[2024-11-02 09:47:49] Product meta updated for product ID: 107446
+[2024-11-02 09:47:49] Starting product import for SKU: 1488147
+[2024-11-02 09:47:49] Product created with ID: 107448 for SKU: 1488147
+[2024-11-02 09:47:50] Successfully fetched price data for product UID: 1488147
+[2024-11-02 09:47:50] Price updated for product UID: 1488147 (ID: 107448)
+[2024-11-02 09:47:50] Invalid inventory data for product UID: 1488147
+[2024-11-02 09:47:50] Fetching category with UID: 10085
+[2024-11-02 09:47:50] Category 'Keshan Fine' set for product ID: 107448
+[2024-11-02 09:47:50] Product meta updated for product ID: 107448
+[2024-11-02 09:47:50] Starting product import for SKU: 1488146
+[2024-11-02 09:47:50] Product created with ID: 107450 for SKU: 1488146
+[2024-11-02 09:47:51] Successfully fetched price data for product UID: 1488146
+[2024-11-02 09:47:51] Price updated for product UID: 1488146 (ID: 107450)
+[2024-11-02 09:47:51] Invalid inventory data for product UID: 1488146
+[2024-11-02 09:47:51] Fetching category with UID: 10085
+[2024-11-02 09:47:51] Category 'Keshan Fine' set for product ID: 107450
+[2024-11-02 09:47:51] Product meta updated for product ID: 107450
+[2024-11-02 09:47:51] Starting product import for SKU: 1488145
+[2024-11-02 09:47:51] Product created with ID: 107452 for SKU: 1488145
+[2024-11-02 09:47:52] Successfully fetched price data for product UID: 1488145
+[2024-11-02 09:47:52] Price updated for product UID: 1488145 (ID: 107452)
+[2024-11-02 09:47:52] Invalid inventory data for product UID: 1488145
+[2024-11-02 09:47:52] Fetching category with UID: 10085
+[2024-11-02 09:47:52] Category 'Keshan Fine' set for product ID: 107452
+[2024-11-02 09:47:52] Product meta updated for product ID: 107452
+[2024-11-02 09:47:52] Starting product import for SKU: 1488144
+[2024-11-02 09:47:52] Product created with ID: 107454 for SKU: 1488144
+[2024-11-02 09:47:53] Successfully fetched price data for product UID: 1488144
+[2024-11-02 09:47:53] Price updated for product UID: 1488144 (ID: 107454)
+[2024-11-02 09:47:53] Invalid inventory data for product UID: 1488144
+[2024-11-02 09:47:53] Fetching category with UID: 10085
+[2024-11-02 09:47:53] Category 'Keshan Fine' set for product ID: 107454
+[2024-11-02 09:47:53] Product meta updated for product ID: 107454
+[2024-11-02 09:47:53] Starting product import for SKU: 1488143
+[2024-11-02 09:47:53] Product created with ID: 107456 for SKU: 1488143
+[2024-11-02 09:47:54] Successfully fetched price data for product UID: 1488143
+[2024-11-02 09:47:54] Price updated for product UID: 1488143 (ID: 107456)
+[2024-11-02 09:47:54] Invalid inventory data for product UID: 1488143
+[2024-11-02 09:47:54] Fetching category with UID: 10043
+[2024-11-02 09:47:54] Category 'Moud Mahi' set for product ID: 107456
+[2024-11-02 09:47:54] Product meta updated for product ID: 107456
+[2024-11-02 09:47:54] Starting product import for SKU: 1488142
+[2024-11-02 09:47:54] Product created with ID: 107458 for SKU: 1488142
+[2024-11-02 09:47:55] Successfully fetched price data for product UID: 1488142
+[2024-11-02 09:47:55] Price updated for product UID: 1488142 (ID: 107458)
+[2024-11-02 09:47:55] Invalid inventory data for product UID: 1488142
+[2024-11-02 09:47:55] Fetching category with UID: 10043
+[2024-11-02 09:47:55] Category 'Moud Mahi' set for product ID: 107458
+[2024-11-02 09:47:55] Product meta updated for product ID: 107458
+[2024-11-02 09:47:55] Starting product import for SKU: 1488141
+[2024-11-02 09:47:55] Product created with ID: 107460 for SKU: 1488141
+[2024-11-02 09:47:55] Successfully fetched price data for product UID: 1488141
+[2024-11-02 09:47:55] Price updated for product UID: 1488141 (ID: 107460)
+[2024-11-02 09:47:56] Invalid inventory data for product UID: 1488141
+[2024-11-02 09:47:56] Fetching category with UID: 10053
+[2024-11-02 09:47:56] Category 'Kashmar' set for product ID: 107460
+[2024-11-02 09:47:56] Product meta updated for product ID: 107460
+[2024-11-02 09:47:56] Starting product import for SKU: 1488139
+[2024-11-02 09:47:56] Product created with ID: 107462 for SKU: 1488139
+[2024-11-02 09:47:56] Successfully fetched price data for product UID: 1488139
+[2024-11-02 09:47:56] Price updated for product UID: 1488139 (ID: 107462)
+[2024-11-02 09:47:57] Invalid inventory data for product UID: 1488139
+[2024-11-02 09:47:57] Fetching category with UID: 10085
+[2024-11-02 09:47:57] Category 'Keshan Fine' set for product ID: 107462
+[2024-11-02 09:47:57] Product meta updated for product ID: 107462
+[2024-11-02 09:47:57] Starting product import for SKU: 1488138
+[2024-11-02 09:47:57] Product created with ID: 107464 for SKU: 1488138
+[2024-11-02 09:47:57] Successfully fetched price data for product UID: 1488138
+[2024-11-02 09:47:57] Price updated for product UID: 1488138 (ID: 107464)
+[2024-11-02 09:47:57] Invalid inventory data for product UID: 1488138
+[2024-11-02 09:47:57] Fetching category with UID: 10085
+[2024-11-02 09:47:58] Category 'Keshan Fine' set for product ID: 107464
+[2024-11-02 09:47:58] Product meta updated for product ID: 107464
+[2024-11-02 09:47:58] Starting product import for SKU: 1487913
+[2024-11-02 09:47:58] Product created with ID: 107466 for SKU: 1487913
+[2024-11-02 09:47:58] Successfully fetched price data for product UID: 1487913
+[2024-11-02 09:47:58] Price updated for product UID: 1487913 (ID: 107466)
+[2024-11-02 09:47:58] Successfully fetched inventory data for product UID: 1487913
+[2024-11-02 09:47:58] Inventory updated for product UID: 1487913 (ID: 107466)
+[2024-11-02 09:47:58] Fetching category with UID: 10085
+[2024-11-02 09:47:59] Category 'Keshan Fine' set for product ID: 107466
+[2024-11-02 09:47:59] Product meta updated for product ID: 107466
+[2024-11-02 09:47:59] Starting product import for SKU: 1487912
+[2024-11-02 09:47:59] Product created with ID: 107468 for SKU: 1487912
+[2024-11-02 09:47:59] Successfully fetched price data for product UID: 1487912
+[2024-11-02 09:47:59] Price updated for product UID: 1487912 (ID: 107468)
+[2024-11-02 09:47:59] Successfully fetched inventory data for product UID: 1487912
+[2024-11-02 09:47:59] Inventory updated for product UID: 1487912 (ID: 107468)
+[2024-11-02 09:47:59] Fetching category with UID: 10085
+[2024-11-02 09:47:59] Category 'Keshan Fine' set for product ID: 107468
+[2024-11-02 09:48:00] Product meta updated for product ID: 107468
+[2024-11-02 09:48:00] Starting product import for SKU: 1487911
+[2024-11-02 09:48:00] Product created with ID: 107470 for SKU: 1487911
+[2024-11-02 09:48:00] Successfully fetched price data for product UID: 1487911
+[2024-11-02 09:48:00] Price updated for product UID: 1487911 (ID: 107470)
+[2024-11-02 09:48:00] Successfully fetched inventory data for product UID: 1487911
+[2024-11-02 09:48:00] Inventory updated for product UID: 1487911 (ID: 107470)
+[2024-11-02 09:48:00] Fetching category with UID: 10085
+[2024-11-02 09:48:00] Category 'Keshan Fine' set for product ID: 107470
+[2024-11-02 09:48:00] Product meta updated for product ID: 107470
+[2024-11-02 09:48:00] Starting product import for SKU: 1487906
+[2024-11-02 09:48:00] Product created with ID: 107472 for SKU: 1487906
+[2024-11-02 09:48:01] Successfully fetched price data for product UID: 1487906
+[2024-11-02 09:48:01] Price updated for product UID: 1487906 (ID: 107472)
+[2024-11-02 09:48:01] Successfully fetched inventory data for product UID: 1487906
+[2024-11-02 09:48:01] Inventory updated for product UID: 1487906 (ID: 107472)
+[2024-11-02 09:48:01] Fetching category with UID: 10085
+[2024-11-02 09:48:01] Category 'Keshan Fine' set for product ID: 107472
+[2024-11-02 09:48:01] Product meta updated for product ID: 107472
+[2024-11-02 09:48:01] Starting product import for SKU: 1487905
+[2024-11-02 09:48:01] Product created with ID: 107474 for SKU: 1487905
+[2024-11-02 09:48:02] Successfully fetched price data for product UID: 1487905
+[2024-11-02 09:48:02] Price updated for product UID: 1487905 (ID: 107474)
+[2024-11-02 09:48:02] Successfully fetched inventory data for product UID: 1487905
+[2024-11-02 09:48:02] Inventory updated for product UID: 1487905 (ID: 107474)
+[2024-11-02 09:48:02] Fetching category with UID: 10085
+[2024-11-02 09:48:02] Category 'Keshan Fine' set for product ID: 107474
+[2024-11-02 09:48:02] Product meta updated for product ID: 107474
+[2024-11-02 09:48:02] Starting product import for SKU: 1487826
+[2024-11-02 09:48:02] Product created with ID: 107476 for SKU: 1487826
+[2024-11-02 09:48:03] Successfully fetched price data for product UID: 1487826
+[2024-11-02 09:48:03] Price updated for product UID: 1487826 (ID: 107476)
+[2024-11-02 09:48:03] Successfully fetched inventory data for product UID: 1487826
+[2024-11-02 09:48:03] Inventory updated for product UID: 1487826 (ID: 107476)
+[2024-11-02 09:48:03] Fetching category with UID: 10081
+[2024-11-02 09:48:03] Category 'Kamseh' set for product ID: 107476
+[2024-11-02 09:48:03] Product meta updated for product ID: 107476
+[2024-11-02 09:48:03] Starting product import for SKU: 1487824
+[2024-11-02 09:48:03] Product created with ID: 107478 for SKU: 1487824
+[2024-11-02 09:48:04] Successfully fetched price data for product UID: 1487824
+[2024-11-02 09:48:04] Price updated for product UID: 1487824 (ID: 107478)
+[2024-11-02 09:48:04] Successfully fetched inventory data for product UID: 1487824
+[2024-11-02 09:48:04] Inventory updated for product UID: 1487824 (ID: 107478)
+[2024-11-02 09:48:04] Fetching category with UID: 10081
+[2024-11-02 09:48:04] Category 'Kamseh' set for product ID: 107478
+[2024-11-02 09:48:04] Product meta updated for product ID: 107478
+[2024-11-02 09:48:04] Starting product import for SKU: 1487821
+[2024-11-02 09:48:04] Product created with ID: 107480 for SKU: 1487821
+[2024-11-02 09:48:04] Successfully fetched price data for product UID: 1487821
+[2024-11-02 09:48:04] Price updated for product UID: 1487821 (ID: 107480)
+[2024-11-02 09:48:05] Successfully fetched inventory data for product UID: 1487821
+[2024-11-02 09:48:05] Inventory updated for product UID: 1487821 (ID: 107480)
+[2024-11-02 09:48:05] Fetching category with UID: 10081
+[2024-11-02 09:48:05] Category 'Kamseh' set for product ID: 107480
+[2024-11-02 09:48:05] Product meta updated for product ID: 107480
+[2024-11-02 09:48:05] Starting product import for SKU: 1487820
+[2024-11-02 09:48:05] Product created with ID: 107482 for SKU: 1487820
+[2024-11-02 09:48:05] Successfully fetched price data for product UID: 1487820
+[2024-11-02 09:48:05] Price updated for product UID: 1487820 (ID: 107482)
+[2024-11-02 09:48:05] Successfully fetched inventory data for product UID: 1487820
+[2024-11-02 09:48:06] Inventory updated for product UID: 1487820 (ID: 107482)
+[2024-11-02 09:48:06] Fetching category with UID: 10081
+[2024-11-02 09:48:06] Category 'Kamseh' set for product ID: 107482
+[2024-11-02 09:48:06] Product meta updated for product ID: 107482
+[2024-11-02 09:48:06] Starting product import for SKU: 1487819
+[2024-11-02 09:48:06] Product created with ID: 107484 for SKU: 1487819
+[2024-11-02 09:48:06] Successfully fetched price data for product UID: 1487819
+[2024-11-02 09:48:06] Price updated for product UID: 1487819 (ID: 107484)
+[2024-11-02 09:48:06] Successfully fetched inventory data for product UID: 1487819
+[2024-11-02 09:48:06] Inventory updated for product UID: 1487819 (ID: 107484)
+[2024-11-02 09:48:06] Fetching category with UID: 10081
+[2024-11-02 09:48:07] Category 'Kamseh' set for product ID: 107484
+[2024-11-02 09:48:07] Product meta updated for product ID: 107484
+[2024-11-02 09:48:07] Starting product import for SKU: 1487818
+[2024-11-02 09:48:07] Product created with ID: 107486 for SKU: 1487818
+[2024-11-02 09:48:07] Successfully fetched price data for product UID: 1487818
+[2024-11-02 09:48:07] Price updated for product UID: 1487818 (ID: 107486)
+[2024-11-02 09:48:07] Successfully fetched inventory data for product UID: 1487818
+[2024-11-02 09:48:07] Inventory updated for product UID: 1487818 (ID: 107486)
+[2024-11-02 09:48:07] Fetching category with UID: 10081
+[2024-11-02 09:48:08] Category 'Kamseh' set for product ID: 107486
+[2024-11-02 09:48:08] Product meta updated for product ID: 107486
+[2024-11-02 09:48:08] Starting product import for SKU: 1487817
+[2024-11-02 09:48:08] Product created with ID: 107488 for SKU: 1487817
+[2024-11-02 09:48:08] Successfully fetched price data for product UID: 1487817
+[2024-11-02 09:48:08] Price updated for product UID: 1487817 (ID: 107488)
+[2024-11-02 09:48:08] Successfully fetched inventory data for product UID: 1487817
+[2024-11-02 09:48:08] Inventory updated for product UID: 1487817 (ID: 107488)
+[2024-11-02 09:48:08] Fetching category with UID: 10081
+[2024-11-02 09:48:08] Category 'Kamseh' set for product ID: 107488
+[2024-11-02 09:48:09] Product meta updated for product ID: 107488
+[2024-11-02 09:48:09] Starting product import for SKU: 1487812
+[2024-11-02 09:48:09] Product created with ID: 107490 for SKU: 1487812
+[2024-11-02 09:48:09] Successfully fetched price data for product UID: 1487812
+[2024-11-02 09:48:09] Price updated for product UID: 1487812 (ID: 107490)
+[2024-11-02 09:48:09] Successfully fetched inventory data for product UID: 1487812
+[2024-11-02 09:48:09] Inventory updated for product UID: 1487812 (ID: 107490)
+[2024-11-02 09:48:09] Fetching category with UID: 10081
+[2024-11-02 09:48:09] Category 'Kamseh' set for product ID: 107490
+[2024-11-02 09:48:09] Product meta updated for product ID: 107490
+[2024-11-02 09:48:09] Starting product import for SKU: 1487811
+[2024-11-02 09:48:09] Product created with ID: 107492 for SKU: 1487811
+[2024-11-02 09:48:10] Successfully fetched price data for product UID: 1487811
+[2024-11-02 09:48:10] Price updated for product UID: 1487811 (ID: 107492)
+[2024-11-02 09:48:10] Successfully fetched inventory data for product UID: 1487811
+[2024-11-02 09:48:10] Inventory updated for product UID: 1487811 (ID: 107492)
+[2024-11-02 09:48:10] Fetching category with UID: 10039
+[2024-11-02 09:48:10] Category 'Torkaman' set for product ID: 107492
+[2024-11-02 09:48:10] Product meta updated for product ID: 107492
+[2024-11-02 09:48:10] Starting product import for SKU: 1487808
+[2024-11-02 09:48:10] Product created with ID: 107494 for SKU: 1487808
+[2024-11-02 09:48:11] Successfully fetched price data for product UID: 1487808
+[2024-11-02 09:48:11] Price updated for product UID: 1487808 (ID: 107494)
+[2024-11-02 09:48:11] Successfully fetched inventory data for product UID: 1487808
+[2024-11-02 09:48:11] Inventory updated for product UID: 1487808 (ID: 107494)
+[2024-11-02 09:48:11] Fetching category with UID: 10081
+[2024-11-02 09:48:11] Category 'Kamseh' set for product ID: 107494
+[2024-11-02 09:48:11] Product meta updated for product ID: 107494
+[2024-11-02 09:48:11] Starting product import for SKU: 1487804
+[2024-11-02 09:48:11] Product created with ID: 107496 for SKU: 1487804
+[2024-11-02 09:48:12] Successfully fetched price data for product UID: 1487804
+[2024-11-02 09:48:12] Price updated for product UID: 1487804 (ID: 107496)
+[2024-11-02 09:48:12] Successfully fetched inventory data for product UID: 1487804
+[2024-11-02 09:48:12] Inventory updated for product UID: 1487804 (ID: 107496)
+[2024-11-02 09:48:12] Fetching category with UID: 10039
+[2024-11-02 09:48:12] Category 'Torkaman' set for product ID: 107496
+[2024-11-02 09:48:12] Product meta updated for product ID: 107496
+[2024-11-02 09:48:12] Starting product import for SKU: 1487803
+[2024-11-02 09:48:12] Product created with ID: 107498 for SKU: 1487803
+[2024-11-02 09:48:13] Successfully fetched price data for product UID: 1487803
+[2024-11-02 09:48:13] Price updated for product UID: 1487803 (ID: 107498)
+[2024-11-02 09:48:13] Successfully fetched inventory data for product UID: 1487803
+[2024-11-02 09:48:13] Inventory updated for product UID: 1487803 (ID: 107498)
+[2024-11-02 09:48:13] Fetching category with UID: 10063
+[2024-11-02 09:48:13] Category 'Balutch' set for product ID: 107498
+[2024-11-02 09:48:13] Product meta updated for product ID: 107498
+[2024-11-02 09:48:13] Starting product import for SKU: 1487800
+[2024-11-02 09:48:13] Product created with ID: 107500 for SKU: 1487800
+[2024-11-02 09:48:13] Successfully fetched price data for product UID: 1487800
+[2024-11-02 09:48:13] Price updated for product UID: 1487800 (ID: 107500)
+[2024-11-02 09:48:14] Successfully fetched inventory data for product UID: 1487800
+[2024-11-02 09:48:14] Inventory updated for product UID: 1487800 (ID: 107500)
+[2024-11-02 09:48:14] Fetching category with UID: 10081
+[2024-11-02 09:48:14] Category 'Kamseh' set for product ID: 107500
+[2024-11-02 09:48:14] Product meta updated for product ID: 107500
+[2024-11-02 09:48:14] Starting product import for SKU: 1487799
+[2024-11-02 09:48:14] Product created with ID: 107502 for SKU: 1487799
+[2024-11-02 09:48:14] Successfully fetched price data for product UID: 1487799
+[2024-11-02 09:48:14] Price updated for product UID: 1487799 (ID: 107502)
+[2024-11-02 09:48:14] Successfully fetched inventory data for product UID: 1487799
+[2024-11-02 09:48:15] Inventory updated for product UID: 1487799 (ID: 107502)
+[2024-11-02 09:48:15] Fetching category with UID: 10039
+[2024-11-02 09:48:15] Category 'Torkaman' set for product ID: 107502
+[2024-11-02 09:48:15] Product meta updated for product ID: 107502
+[2024-11-02 09:48:15] Starting product import for SKU: 1487798
+[2024-11-02 09:48:15] Product created with ID: 107504 for SKU: 1487798
+[2024-11-02 09:48:15] Successfully fetched price data for product UID: 1487798
+[2024-11-02 09:48:15] Price updated for product UID: 1487798 (ID: 107504)
+[2024-11-02 09:48:15] Successfully fetched inventory data for product UID: 1487798
+[2024-11-02 09:48:15] Inventory updated for product UID: 1487798 (ID: 107504)
+[2024-11-02 09:48:15] Fetching category with UID: 10039
+[2024-11-02 09:48:16] Category 'Torkaman' set for product ID: 107504
+[2024-11-02 09:48:16] Product meta updated for product ID: 107504
+[2024-11-02 09:48:16] Starting product import for SKU: 1487796
+[2024-11-02 09:48:16] Product created with ID: 107506 for SKU: 1487796
+[2024-11-02 09:48:16] Successfully fetched price data for product UID: 1487796
+[2024-11-02 09:48:16] Price updated for product UID: 1487796 (ID: 107506)
+[2024-11-02 09:48:16] Successfully fetched inventory data for product UID: 1487796
+[2024-11-02 09:48:16] Inventory updated for product UID: 1487796 (ID: 107506)
+[2024-11-02 09:48:16] Fetching category with UID: 10081
+[2024-11-02 09:48:17] Category 'Kamseh' set for product ID: 107506
+[2024-11-02 09:48:17] Product meta updated for product ID: 107506
+[2024-11-02 09:48:17] Starting product import for SKU: 1487793
+[2024-11-02 09:48:17] Product created with ID: 107508 for SKU: 1487793
+[2024-11-02 09:48:17] Successfully fetched price data for product UID: 1487793
+[2024-11-02 09:48:17] Price updated for product UID: 1487793 (ID: 107508)
+[2024-11-02 09:48:17] Successfully fetched inventory data for product UID: 1487793
+[2024-11-02 09:48:17] Inventory updated for product UID: 1487793 (ID: 107508)
+[2024-11-02 09:48:17] Fetching category with UID: 10081
+[2024-11-02 09:48:17] Category 'Kamseh' set for product ID: 107508
+[2024-11-02 09:48:18] Product meta updated for product ID: 107508
+[2024-11-02 09:48:18] Starting product import for SKU: 1487789
+[2024-11-02 09:48:18] Product created with ID: 107510 for SKU: 1487789
+[2024-11-02 09:48:18] Successfully fetched price data for product UID: 1487789
+[2024-11-02 09:48:18] Price updated for product UID: 1487789 (ID: 107510)
+[2024-11-02 09:48:18] Successfully fetched inventory data for product UID: 1487789
+[2024-11-02 09:48:18] Inventory updated for product UID: 1487789 (ID: 107510)
+[2024-11-02 09:48:18] Fetching category with UID: 10081
+[2024-11-02 09:48:18] Category 'Kamseh' set for product ID: 107510
+[2024-11-02 09:48:19] Product meta updated for product ID: 107510
+[2024-11-02 09:48:19] Starting product import for SKU: 1487788
+[2024-11-02 09:48:19] Product created with ID: 107512 for SKU: 1487788
+[2024-11-02 09:48:19] Successfully fetched price data for product UID: 1487788
+[2024-11-02 09:48:19] Price updated for product UID: 1487788 (ID: 107512)
+[2024-11-02 09:48:19] Successfully fetched inventory data for product UID: 1487788
+[2024-11-02 09:48:19] Inventory updated for product UID: 1487788 (ID: 107512)
+[2024-11-02 09:48:19] Fetching category with UID: 10039
+[2024-11-02 09:48:20] Category 'Torkaman' set for product ID: 107512
+[2024-11-02 09:48:20] Product meta updated for product ID: 107512
+[2024-11-02 09:48:20] Starting product import for SKU: 1487785
+[2024-11-02 09:48:20] Product created with ID: 107514 for SKU: 1487785
+[2024-11-02 09:48:20] Successfully fetched price data for product UID: 1487785
+[2024-11-02 09:48:20] Price updated for product UID: 1487785 (ID: 107514)
+[2024-11-02 09:48:20] Successfully fetched inventory data for product UID: 1487785
+[2024-11-02 09:48:20] Inventory updated for product UID: 1487785 (ID: 107514)
+[2024-11-02 09:48:20] Fetching category with UID: 10039
+[2024-11-02 09:48:21] Category 'Torkaman' set for product ID: 107514
+[2024-11-02 09:48:21] Product meta updated for product ID: 107514
+[2024-11-02 09:48:21] Starting product import for SKU: 1487784
+[2024-11-02 09:48:21] Product created with ID: 107516 for SKU: 1487784
+[2024-11-02 09:48:21] Successfully fetched price data for product UID: 1487784
+[2024-11-02 09:48:21] Price updated for product UID: 1487784 (ID: 107516)
+[2024-11-02 09:48:21] Successfully fetched inventory data for product UID: 1487784
+[2024-11-02 09:48:21] Inventory updated for product UID: 1487784 (ID: 107516)
+[2024-11-02 09:48:21] Fetching category with UID: 10039
+[2024-11-02 09:48:22] Category 'Torkaman' set for product ID: 107516
+[2024-11-02 09:48:22] Product meta updated for product ID: 107516
+[2024-11-02 09:48:22] Starting product import for SKU: 1487783
+[2024-11-02 09:48:22] Product created with ID: 107518 for SKU: 1487783
+[2024-11-02 09:48:22] Successfully fetched price data for product UID: 1487783
+[2024-11-02 09:48:22] Price updated for product UID: 1487783 (ID: 107518)
+[2024-11-02 09:48:22] Successfully fetched inventory data for product UID: 1487783
+[2024-11-02 09:48:22] Inventory updated for product UID: 1487783 (ID: 107518)
+[2024-11-02 09:48:22] Fetching category with UID: 10039
+[2024-11-02 09:48:22] Category 'Torkaman' set for product ID: 107518
+[2024-11-02 09:48:23] Product meta updated for product ID: 107518
+[2024-11-02 09:48:23] Starting product import for SKU: 1487782
+[2024-11-02 09:48:23] Product created with ID: 107520 for SKU: 1487782
+[2024-11-02 09:48:23] Successfully fetched price data for product UID: 1487782
+[2024-11-02 09:48:23] Price updated for product UID: 1487782 (ID: 107520)
+[2024-11-02 09:48:23] Successfully fetched inventory data for product UID: 1487782
+[2024-11-02 09:48:23] Inventory updated for product UID: 1487782 (ID: 107520)
+[2024-11-02 09:48:23] Fetching category with UID: 10039
+[2024-11-02 09:48:23] Category 'Torkaman' set for product ID: 107520
+[2024-11-02 09:48:23] Product meta updated for product ID: 107520
+[2024-11-02 09:48:23] Starting product import for SKU: 1487781
+[2024-11-02 09:48:23] Product created with ID: 107522 for SKU: 1487781
+[2024-11-02 09:48:24] Successfully fetched price data for product UID: 1487781
+[2024-11-02 09:48:24] Price updated for product UID: 1487781 (ID: 107522)
+[2024-11-02 09:48:24] Successfully fetched inventory data for product UID: 1487781
+[2024-11-02 09:48:24] Inventory updated for product UID: 1487781 (ID: 107522)
+[2024-11-02 09:48:24] Fetching category with UID: 10081
+[2024-11-02 09:48:24] Category 'Kamseh' set for product ID: 107522
+[2024-11-02 09:48:24] Product meta updated for product ID: 107522
+[2024-11-02 09:48:24] Starting product import for SKU: 1487780
+[2024-11-02 09:48:24] Product created with ID: 107524 for SKU: 1487780
+[2024-11-02 09:48:25] Successfully fetched price data for product UID: 1487780
+[2024-11-02 09:48:25] Price updated for product UID: 1487780 (ID: 107524)
+[2024-11-02 09:48:25] Successfully fetched inventory data for product UID: 1487780
+[2024-11-02 09:48:25] Inventory updated for product UID: 1487780 (ID: 107524)
+[2024-11-02 09:48:25] Fetching category with UID: 10081
+[2024-11-02 09:48:25] Category 'Kamseh' set for product ID: 107524
+[2024-11-02 09:48:25] Product meta updated for product ID: 107524
+[2024-11-02 09:48:25] Starting product import for SKU: 1487779
+[2024-11-02 09:48:25] Product created with ID: 107526 for SKU: 1487779
+[2024-11-02 09:48:26] Successfully fetched price data for product UID: 1487779
+[2024-11-02 09:48:26] Price updated for product UID: 1487779 (ID: 107526)
+[2024-11-02 09:48:26] Successfully fetched inventory data for product UID: 1487779
+[2024-11-02 09:48:26] Inventory updated for product UID: 1487779 (ID: 107526)
+[2024-11-02 09:48:26] Fetching category with UID: 10081
+[2024-11-02 09:48:26] Category 'Kamseh' set for product ID: 107526
+[2024-11-02 09:48:26] Product meta updated for product ID: 107526
+[2024-11-02 09:48:26] Starting product import for SKU: 1487777
+[2024-11-02 09:48:26] Product created with ID: 107528 for SKU: 1487777
+[2024-11-02 09:48:27] Successfully fetched price data for product UID: 1487777
+[2024-11-02 09:48:27] Price updated for product UID: 1487777 (ID: 107528)
+[2024-11-02 09:48:27] Successfully fetched inventory data for product UID: 1487777
+[2024-11-02 09:48:27] Inventory updated for product UID: 1487777 (ID: 107528)
+[2024-11-02 09:48:27] Fetching category with UID: 10081
+[2024-11-02 09:48:27] Category 'Kamseh' set for product ID: 107528
+[2024-11-02 09:48:27] Product meta updated for product ID: 107528
+[2024-11-02 09:48:27] Starting product import for SKU: 1487774
+[2024-11-02 09:48:27] Product created with ID: 107530 for SKU: 1487774
+[2024-11-02 09:48:27] Successfully fetched price data for product UID: 1487774
+[2024-11-02 09:48:27] Price updated for product UID: 1487774 (ID: 107530)
+[2024-11-02 09:48:28] Successfully fetched inventory data for product UID: 1487774
+[2024-11-02 09:48:28] Inventory updated for product UID: 1487774 (ID: 107530)
+[2024-11-02 09:48:28] Fetching category with UID: 10039
+[2024-11-02 09:48:28] Category 'Torkaman' set for product ID: 107530
+[2024-11-02 09:48:28] Product meta updated for product ID: 107530
+[2024-11-02 09:48:28] Starting product import for SKU: 1487773
+[2024-11-02 09:48:28] Product created with ID: 107532 for SKU: 1487773
+[2024-11-02 09:48:28] Successfully fetched price data for product UID: 1487773
+[2024-11-02 09:48:28] Price updated for product UID: 1487773 (ID: 107532)
+[2024-11-02 09:48:28] Successfully fetched inventory data for product UID: 1487773
+[2024-11-02 09:48:28] Inventory updated for product UID: 1487773 (ID: 107532)
+[2024-11-02 09:48:28] Fetching category with UID: 10039
+[2024-11-02 09:48:29] Category 'Torkaman' set for product ID: 107532
+[2024-11-02 09:48:29] Product meta updated for product ID: 107532
+[2024-11-02 09:48:29] Starting product import for SKU: 1487771
+[2024-11-02 09:48:29] Product created with ID: 107534 for SKU: 1487771
+[2024-11-02 09:48:29] Successfully fetched price data for product UID: 1487771
+[2024-11-02 09:48:29] Price updated for product UID: 1487771 (ID: 107534)
+[2024-11-02 09:48:29] Successfully fetched inventory data for product UID: 1487771
+[2024-11-02 09:48:29] Inventory updated for product UID: 1487771 (ID: 107534)
+[2024-11-02 09:48:29] Fetching category with UID: 10081
+[2024-11-02 09:48:30] Category 'Kamseh' set for product ID: 107534
+[2024-11-02 09:48:30] Product meta updated for product ID: 107534
+[2024-11-02 09:48:30] Starting product import for SKU: 1487769
+[2024-11-02 09:48:30] Product created with ID: 107536 for SKU: 1487769
+[2024-11-02 09:48:30] Successfully fetched price data for product UID: 1487769
+[2024-11-02 09:48:30] Price updated for product UID: 1487769 (ID: 107536)
+[2024-11-02 09:48:30] Successfully fetched inventory data for product UID: 1487769
+[2024-11-02 09:48:30] Inventory updated for product UID: 1487769 (ID: 107536)
+[2024-11-02 09:48:30] Fetching category with UID: 10039
+[2024-11-02 09:48:30] Category 'Torkaman' set for product ID: 107536
+[2024-11-02 09:48:31] Product meta updated for product ID: 107536
+[2024-11-02 09:48:31] Starting product import for SKU: 1487768
+[2024-11-02 09:48:31] Product created with ID: 107538 for SKU: 1487768
+[2024-11-02 09:48:31] Successfully fetched price data for product UID: 1487768
+[2024-11-02 09:48:31] Price updated for product UID: 1487768 (ID: 107538)
+[2024-11-02 09:48:31] Successfully fetched inventory data for product UID: 1487768
+[2024-11-02 09:48:31] Inventory updated for product UID: 1487768 (ID: 107538)
+[2024-11-02 09:48:31] Fetching category with UID: 10081
+[2024-11-02 09:48:31] Category 'Kamseh' set for product ID: 107538
+[2024-11-02 09:48:31] Product meta updated for product ID: 107538
+[2024-11-02 09:48:31] Starting product import for SKU: 1487767
+[2024-11-02 09:48:31] Product created with ID: 107540 for SKU: 1487767
+[2024-11-02 09:48:32] Successfully fetched price data for product UID: 1487767
+[2024-11-02 09:48:32] Price updated for product UID: 1487767 (ID: 107540)
+[2024-11-02 09:48:32] Successfully fetched inventory data for product UID: 1487767
+[2024-11-02 09:48:32] Inventory updated for product UID: 1487767 (ID: 107540)
+[2024-11-02 09:48:32] Fetching category with UID: 10081
+[2024-11-02 09:48:32] Category 'Kamseh' set for product ID: 107540
+[2024-11-02 09:48:32] Product meta updated for product ID: 107540
+[2024-11-02 09:48:32] Starting product import for SKU: 1487764
+[2024-11-02 09:48:32] Product created with ID: 107542 for SKU: 1487764
+[2024-11-02 09:48:33] Successfully fetched price data for product UID: 1487764
+[2024-11-02 09:48:33] Price updated for product UID: 1487764 (ID: 107542)
+[2024-11-02 09:48:33] Successfully fetched inventory data for product UID: 1487764
+[2024-11-02 09:48:33] Inventory updated for product UID: 1487764 (ID: 107542)
+[2024-11-02 09:48:33] Fetching category with UID: 10039
+[2024-11-02 09:48:33] Category 'Torkaman' set for product ID: 107542
+[2024-11-02 09:48:33] Product meta updated for product ID: 107542
+[2024-11-02 09:48:33] Starting product images import for SKU: 1488149
+[2024-11-02 09:48:33] Fetching assets for product UID: 1488149
+[2024-11-02 09:48:49] Image successfully imported: https://rezasrugs.com/productsFolder/1488149/254944/image-thumb__254944__product_gallery_preview/1488149-300X195.jpg
+[2024-11-02 09:49:01] Image successfully imported: https://rezasrugs.com/productsFolder/1488149/254885/image-thumb__254885__product_gallery_preview/1488149-1.jpg
+[2024-11-02 09:49:14] Image successfully imported: https://rezasrugs.com/productsFolder/1488149/254871/image-thumb__254871__product_gallery_preview/1488149-2.jpg
+[2024-11-02 09:49:27] Image successfully imported: https://rezasrugs.com/productsFolder/1488149/254925/image-thumb__254925__product_gallery_preview/1488149-3.jpg
+[2024-11-02 09:49:37] Image successfully imported: https://rezasrugs.com/productsFolder/1488149/254921/image-thumb__254921__product_gallery_preview/1488149-4.jpg
+[2024-11-02 09:49:37] Images set for product ID: 107173
+[2024-11-02 09:49:37] Starting product images import for SKU: 1488148
+[2024-11-02 09:49:37] Fetching assets for product UID: 1488148
+[2024-11-02 09:49:50] Image successfully imported: https://rezasrugs.com/productsFolder/1488148/254905/image-thumb__254905__product_gallery_preview/1488148-305X194.jpg
+[2024-11-02 09:50:01] Image successfully imported: https://rezasrugs.com/productsFolder/1488148/254897/image-thumb__254897__product_gallery_preview/1488148-1.jpg
+[2024-11-02 09:50:14] Image successfully imported: https://rezasrugs.com/productsFolder/1488148/254924/image-thumb__254924__product_gallery_preview/1488148-2.jpg
+[2024-11-02 09:50:27] Image successfully imported: https://rezasrugs.com/productsFolder/1488148/254883/image-thumb__254883__product_gallery_preview/1488148-3.jpg
+[2024-11-02 09:50:37] Image successfully imported: https://rezasrugs.com/productsFolder/1488148/254900/image-thumb__254900__product_gallery_preview/1488148-4.jpg
+[2024-11-02 09:50:37] Images set for product ID: 107446
+[2024-11-02 09:50:37] Starting product images import for SKU: 1488147
+[2024-11-02 09:50:37] Fetching assets for product UID: 1488147
+[2024-11-02 09:50:51] Image successfully imported: https://rezasrugs.com/productsFolder/1488147/254898/image-thumb__254898__product_gallery_preview/1488147-294X198.jpg
+[2024-11-02 09:51:06] Image successfully imported: https://rezasrugs.com/productsFolder/1488147/254908/image-thumb__254908__product_gallery_preview/1488147-1.jpg
+[2024-11-02 09:51:18] Image successfully imported: https://rezasrugs.com/productsFolder/1488147/254909/image-thumb__254909__product_gallery_preview/1488147-2.jpg
+[2024-11-02 09:51:32] Image successfully imported: https://rezasrugs.com/productsFolder/1488147/254914/image-thumb__254914__product_gallery_preview/1488147-3.jpg
+[2024-11-02 09:51:43] Image successfully imported: https://rezasrugs.com/productsFolder/1488147/254943/image-thumb__254943__product_gallery_preview/1488147-4.jpg
+[2024-11-02 09:51:43] Images set for product ID: 107448
+[2024-11-02 09:51:43] Starting product images import for SKU: 1488146
+[2024-11-02 09:51:43] Fetching assets for product UID: 1488146
+[2024-11-02 09:51:58] Image successfully imported: https://rezasrugs.com/productsFolder/1488146/254928/image-thumb__254928__product_gallery_preview/1488146-301X196.jpg
+[2024-11-02 09:52:10] Image successfully imported: https://rezasrugs.com/productsFolder/1488146/254872/image-thumb__254872__product_gallery_preview/1488146-1.jpg
+[2024-11-02 09:52:22] Image successfully imported: https://rezasrugs.com/productsFolder/1488146/254922/image-thumb__254922__product_gallery_preview/1488146-2.jpg
+[2024-11-02 09:52:35] Image successfully imported: https://rezasrugs.com/productsFolder/1488146/254934/image-thumb__254934__product_gallery_preview/1488146-3.jpg
+[2024-11-02 09:52:45] Image successfully imported: https://rezasrugs.com/productsFolder/1488146/254866/image-thumb__254866__product_gallery_preview/1488146-4.jpg
+[2024-11-02 09:52:45] Images set for product ID: 107450
+[2024-11-02 09:52:45] Starting product images import for SKU: 1488145
+[2024-11-02 09:52:45] Fetching assets for product UID: 1488145
+[2024-11-02 09:53:00] Image successfully imported: https://rezasrugs.com/productsFolder/1488145/254887/image-thumb__254887__product_gallery_preview/1488145-297X193.jpg
+[2024-11-02 09:53:13] Image successfully imported: https://rezasrugs.com/productsFolder/1488145/254861/image-thumb__254861__product_gallery_preview/1488145-1.jpg
+[2024-11-02 09:53:25] Image successfully imported: https://rezasrugs.com/productsFolder/1488145/254889/image-thumb__254889__product_gallery_preview/1488145-2.jpg
+[2024-11-02 09:53:38] Image successfully imported: https://rezasrugs.com/productsFolder/1488145/254879/image-thumb__254879__product_gallery_preview/1488145-3.jpg
+[2024-11-02 09:53:48] Image successfully imported: https://rezasrugs.com/productsFolder/1488145/254890/image-thumb__254890__product_gallery_preview/1488145-4.jpg
+[2024-11-02 09:53:48] Images set for product ID: 107452
+[2024-11-02 09:53:48] Starting product images import for SKU: 1488144
+[2024-11-02 09:53:48] Fetching assets for product UID: 1488144
+[2024-11-02 09:54:03] Image successfully imported: https://rezasrugs.com/productsFolder/1488144/254882/image-thumb__254882__product_gallery_preview/1488144-301X197.jpg
+[2024-11-02 09:54:15] Image successfully imported: https://rezasrugs.com/productsFolder/1488144/254895/image-thumb__254895__product_gallery_preview/1488144-1.jpg
+[2024-11-02 09:54:28] Image successfully imported: https://rezasrugs.com/productsFolder/1488144/254875/image-thumb__254875__product_gallery_preview/1488144-2.jpg
+[2024-11-02 09:54:41] Image successfully imported: https://rezasrugs.com/productsFolder/1488144/254869/image-thumb__254869__product_gallery_preview/1488144-3.jpg
+[2024-11-02 09:54:51] Image successfully imported: https://rezasrugs.com/productsFolder/1488144/254884/image-thumb__254884__product_gallery_preview/1488144-4.jpg
+[2024-11-02 09:54:51] Images set for product ID: 107454
+[2024-11-02 09:54:51] Starting product images import for SKU: 1488143
+[2024-11-02 09:54:52] Fetching assets for product UID: 1488143
+[2024-11-02 09:55:07] Image successfully imported: https://rezasrugs.com/productsFolder/1488143/254855/image-thumb__254855__product_gallery_preview/1488143-304X206.jpg
+[2024-11-02 09:55:19] Image successfully imported: https://rezasrugs.com/productsFolder/1488143/254886/image-thumb__254886__product_gallery_preview/1488143-1.jpg
+[2024-11-02 09:55:32] Image successfully imported: https://rezasrugs.com/productsFolder/1488143/254860/image-thumb__254860__product_gallery_preview/1488143-2.jpg
+[2024-11-02 09:55:44] Image successfully imported: https://rezasrugs.com/productsFolder/1488143/254858/image-thumb__254858__product_gallery_preview/1488143-3.jpg
+[2024-11-02 09:55:54] Image successfully imported: https://rezasrugs.com/productsFolder/1488143/254878/image-thumb__254878__product_gallery_preview/1488143-4.jpg
+[2024-11-02 09:55:54] Images set for product ID: 107456
+[2024-11-02 09:55:54] Starting product images import for SKU: 1488142
+[2024-11-02 09:55:54] Fetching assets for product UID: 1488142
+[2024-11-02 09:56:09] Image successfully imported: https://rezasrugs.com/productsFolder/1488142/254859/image-thumb__254859__product_gallery_preview/1488142-318X206.jpg
+[2024-11-02 09:56:21] Image successfully imported: https://rezasrugs.com/productsFolder/1488142/254867/image-thumb__254867__product_gallery_preview/1488142-1.jpg
+[2024-11-02 09:56:34] Image successfully imported: https://rezasrugs.com/productsFolder/1488142/254853/image-thumb__254853__product_gallery_preview/1488142-2.jpg
+[2024-11-02 09:56:47] Image successfully imported: https://rezasrugs.com/productsFolder/1488142/254899/image-thumb__254899__product_gallery_preview/1488142-3.jpg
+[2024-11-02 09:56:56] Image successfully imported: https://rezasrugs.com/productsFolder/1488142/254877/image-thumb__254877__product_gallery_preview/1488142-4.jpg
+[2024-11-02 09:56:56] Images set for product ID: 107458
+[2024-11-02 09:56:56] Starting product images import for SKU: 1488141
+[2024-11-02 09:56:56] Fetching assets for product UID: 1488141
+[2024-11-02 09:57:11] Image successfully imported: https://rezasrugs.com/productsFolder/1488141/254862/image-thumb__254862__product_gallery_preview/1488141-290X195.jpg
+[2024-11-02 09:57:22] Image successfully imported: https://rezasrugs.com/productsFolder/1488141/254876/image-thumb__254876__product_gallery_preview/1488141-1.jpg
+[2024-11-02 09:57:35] Image successfully imported: https://rezasrugs.com/productsFolder/1488141/254880/image-thumb__254880__product_gallery_preview/1488141-2.jpg
+[2024-11-02 09:57:47] Image successfully imported: https://rezasrugs.com/productsFolder/1488141/254870/image-thumb__254870__product_gallery_preview/1488141-3.jpg
+[2024-11-02 09:57:57] Image successfully imported: https://rezasrugs.com/productsFolder/1488141/254851/image-thumb__254851__product_gallery_preview/1488141-4.jpg
+[2024-11-02 09:57:57] Images set for product ID: 107460
+[2024-11-02 09:57:57] Starting product images import for SKU: 1488139
+[2024-11-02 09:57:57] Fetching assets for product UID: 1488139
+[2024-11-02 09:58:12] Image successfully imported: https://rezasrugs.com/productsFolder/1488139/254874/image-thumb__254874__product_gallery_preview/1488139-298X195.jpg
+[2024-11-02 09:58:25] Image successfully imported: https://rezasrugs.com/productsFolder/1488139/254854/image-thumb__254854__product_gallery_preview/1488139-1.jpg
+[2024-11-02 09:58:38] Image successfully imported: https://rezasrugs.com/productsFolder/1488139/254857/image-thumb__254857__product_gallery_preview/1488139-2.jpg
+[2024-11-02 09:58:51] Image successfully imported: https://rezasrugs.com/productsFolder/1488139/254863/image-thumb__254863__product_gallery_preview/1488139-3.jpg
+[2024-11-02 09:59:00] Image successfully imported: https://rezasrugs.com/productsFolder/1488139/254856/image-thumb__254856__product_gallery_preview/1488139-4.jpg
+[2024-11-02 09:59:00] Images set for product ID: 107462
+[2024-11-02 09:59:00] Starting product images import for SKU: 1488138
+[2024-11-02 09:59:00] Fetching assets for product UID: 1488138
+[2024-11-02 09:59:17] Image successfully imported: https://rezasrugs.com/productsFolder/1488138/254864/image-thumb__254864__product_gallery_preview/1488138-308X200.jpg
+[2024-11-02 09:59:29] Image successfully imported: https://rezasrugs.com/productsFolder/1488138/254847/image-thumb__254847__product_gallery_preview/1488138-1.jpg
+[2024-11-02 09:59:42] Image successfully imported: https://rezasrugs.com/productsFolder/1488138/254865/image-thumb__254865__product_gallery_preview/1488138-2.jpg
+[2024-11-02 09:59:55] Image successfully imported: https://rezasrugs.com/productsFolder/1488138/254849/image-thumb__254849__product_gallery_preview/1488138-3.jpg
+[2024-11-02 10:00:05] Image successfully imported: https://rezasrugs.com/productsFolder/1488138/254848/image-thumb__254848__product_gallery_preview/1488138-4.jpg
+[2024-11-02 10:00:05] Images set for product ID: 107464
+[2024-11-02 10:00:05] Starting product images import for SKU: 1487913
+[2024-11-02 10:00:06] Fetching assets for product UID: 1487913
+[2024-11-02 10:00:24] Image successfully imported: https://rezasrugs.com/productsFolder/1487913/204830/image-thumb__204830__product_gallery_preview/1487913-388x293.jpg
+[2024-11-02 10:00:37] Image successfully imported: https://rezasrugs.com/productsFolder/1487913/204852/image-thumb__204852__product_gallery_preview/1487913-1.jpg
+[2024-11-02 10:00:50] Image successfully imported: https://rezasrugs.com/productsFolder/1487913/204839/image-thumb__204839__product_gallery_preview/1487913-2.jpg
+[2024-11-02 10:01:03] Image successfully imported: https://rezasrugs.com/productsFolder/1487913/204848/image-thumb__204848__product_gallery_preview/1487913-3.jpg
+[2024-11-02 10:01:14] Image successfully imported: https://rezasrugs.com/productsFolder/1487913/204801/image-thumb__204801__product_gallery_preview/1487913-4.jpg
+[2024-11-02 10:01:14] Images set for product ID: 107466
+[2024-11-02 10:01:14] Starting product images import for SKU: 1487912
+[2024-11-02 10:01:14] Fetching assets for product UID: 1487912
+[2024-11-02 10:01:31] Image successfully imported: https://rezasrugs.com/productsFolder/1487912/204840/image-thumb__204840__product_gallery_preview/1487912-414x290.jpg
+[2024-11-02 10:01:44] Image successfully imported: https://rezasrugs.com/productsFolder/1487912/204831/image-thumb__204831__product_gallery_preview/1487912-1.jpg
+[2024-11-02 10:01:56] Image successfully imported: https://rezasrugs.com/productsFolder/1487912/204818/image-thumb__204818__product_gallery_preview/1487912-2.jpg
+[2024-11-02 10:02:09] Image successfully imported: https://rezasrugs.com/productsFolder/1487912/204804/image-thumb__204804__product_gallery_preview/1487912-3.jpg
+[2024-11-02 10:02:19] Image successfully imported: https://rezasrugs.com/productsFolder/1487912/204825/image-thumb__204825__product_gallery_preview/1487912-4.jpg
+[2024-11-02 10:02:19] Images set for product ID: 107468
+[2024-11-02 10:02:19] Starting product images import for SKU: 1487911
+[2024-11-02 10:02:19] Fetching assets for product UID: 1487911
+[2024-11-02 10:02:37] Image successfully imported: https://rezasrugs.com/productsFolder/1487911/204836/image-thumb__204836__product_gallery_preview/1487911-393x298.jpg
+[2024-11-02 10:02:50] Image successfully imported: https://rezasrugs.com/productsFolder/1487911/204842/image-thumb__204842__product_gallery_preview/1487911-1.jpg
+[2024-11-02 10:03:03] Image successfully imported: https://rezasrugs.com/productsFolder/1487911/204823/image-thumb__204823__product_gallery_preview/1487911-2.jpg
+[2024-11-02 10:03:16] Image successfully imported: https://rezasrugs.com/productsFolder/1487911/204815/image-thumb__204815__product_gallery_preview/1487911-3.jpg
+[2024-11-02 10:03:26] Image successfully imported: https://rezasrugs.com/productsFolder/1487911/204843/image-thumb__204843__product_gallery_preview/1487911-4.jpg
+[2024-11-02 10:03:26] Images set for product ID: 107470
+[2024-11-02 10:03:26] Starting product images import for SKU: 1487906
+[2024-11-02 10:03:26] Fetching assets for product UID: 1487906
+[2024-11-02 10:03:43] Image successfully imported: https://rezasrugs.com/productsFolder/1487906/204813/image-thumb__204813__product_gallery_preview/1487906-404x295.jpg
+[2024-11-02 10:03:56] Image successfully imported: https://rezasrugs.com/productsFolder/1487906/204788/image-thumb__204788__product_gallery_preview/1487906-1.jpg
+[2024-11-02 10:04:09] Image successfully imported: https://rezasrugs.com/productsFolder/1487906/204817/image-thumb__204817__product_gallery_preview/1487906-2.jpg
+[2024-11-02 10:04:21] Image successfully imported: https://rezasrugs.com/productsFolder/1487906/204792/image-thumb__204792__product_gallery_preview/1487906-3.jpg
+[2024-11-02 10:04:31] Image successfully imported: https://rezasrugs.com/productsFolder/1487906/204790/image-thumb__204790__product_gallery_preview/1487906-4.jpg
+[2024-11-02 10:04:31] Images set for product ID: 107472
+[2024-11-02 10:04:31] Starting product images import for SKU: 1487905
+[2024-11-02 10:04:31] Fetching assets for product UID: 1487905
+[2024-11-02 10:04:49] Image successfully imported: https://rezasrugs.com/productsFolder/1487905/204799/image-thumb__204799__product_gallery_preview/1487905-396x294.jpg
+[2024-11-02 10:05:01] Image successfully imported: https://rezasrugs.com/productsFolder/1487905/204794/image-thumb__204794__product_gallery_preview/1487905-1.jpg
+[2024-11-02 10:05:14] Image successfully imported: https://rezasrugs.com/productsFolder/1487905/204795/image-thumb__204795__product_gallery_preview/1487905-2.jpg
+[2024-11-02 10:05:26] Image successfully imported: https://rezasrugs.com/productsFolder/1487905/204789/image-thumb__204789__product_gallery_preview/1487905-3.jpg
+[2024-11-02 10:05:38] Image successfully imported: https://rezasrugs.com/productsFolder/1487905/204791/image-thumb__204791__product_gallery_preview/1487905-4.jpg
+[2024-11-02 10:05:38] Images set for product ID: 107474
+[2024-11-02 10:05:38] Starting product images import for SKU: 1487826
+[2024-11-02 10:05:38] Fetching assets for product UID: 1487826
+[2024-11-02 10:05:46] Image successfully imported: https://rezasrugs.com/productsFolder/1487826/230334/image-thumb__230334__product_gallery_preview/1487826-210X127.jpg
+[2024-11-02 10:06:01] Image successfully imported: https://rezasrugs.com/productsFolder/1487826/230336/image-thumb__230336__product_gallery_preview/1487826-1.jpg
+[2024-11-02 10:06:13] Image successfully imported: https://rezasrugs.com/productsFolder/1487826/230335/image-thumb__230335__product_gallery_preview/1487826-2.jpg
+[2024-11-02 10:06:26] Image successfully imported: https://rezasrugs.com/productsFolder/1487826/230337/image-thumb__230337__product_gallery_preview/1487826-3.jpg
+[2024-11-02 10:06:35] Image successfully imported: https://rezasrugs.com/productsFolder/1487826/230338/image-thumb__230338__product_gallery_preview/1487826-4.jpg
+[2024-11-02 10:06:35] Images set for product ID: 107476
+[2024-11-02 10:06:35] Starting product images import for SKU: 1487824
+[2024-11-02 10:06:35] Fetching assets for product UID: 1487824
+[2024-11-02 10:06:47] Image successfully imported: https://rezasrugs.com/productsFolder/1487824/230324/image-thumb__230324__product_gallery_preview/1487824-255X140.jpg
+[2024-11-02 10:06:59] Image successfully imported: https://rezasrugs.com/productsFolder/1487824/230325/image-thumb__230325__product_gallery_preview/1487824-1.jpg
+[2024-11-02 10:07:12] Image successfully imported: https://rezasrugs.com/productsFolder/1487824/230327/image-thumb__230327__product_gallery_preview/1487824-2.jpg
+[2024-11-02 10:07:25] Image successfully imported: https://rezasrugs.com/productsFolder/1487824/230326/image-thumb__230326__product_gallery_preview/1487824-3.jpg
+[2024-11-02 10:07:36] Image successfully imported: https://rezasrugs.com/productsFolder/1487824/230328/image-thumb__230328__product_gallery_preview/1487824-4.jpg
+[2024-11-02 10:07:36] Images set for product ID: 107478
+[2024-11-02 10:07:36] Starting product images import for SKU: 1487821
+[2024-11-02 10:07:36] Fetching assets for product UID: 1487821
+[2024-11-02 10:07:48] Image successfully imported: https://rezasrugs.com/productsFolder/1487821/230309/image-thumb__230309__product_gallery_preview/1487821-230X140.jpg
+[2024-11-02 10:07:59] Image successfully imported: https://rezasrugs.com/productsFolder/1487821/230312/image-thumb__230312__product_gallery_preview/1487821-1.jpg
+[2024-11-02 10:08:11] Image successfully imported: https://rezasrugs.com/productsFolder/1487821/230310/image-thumb__230310__product_gallery_preview/1487821-2.jpg
+[2024-11-02 10:08:23] Image successfully imported: https://rezasrugs.com/productsFolder/1487821/230311/image-thumb__230311__product_gallery_preview/1487821-3.jpg
+[2024-11-02 10:08:33] Image successfully imported: https://rezasrugs.com/productsFolder/1487821/230313/image-thumb__230313__product_gallery_preview/1487821-4.jpg
+[2024-11-02 10:08:33] Images set for product ID: 107480
+[2024-11-02 10:08:33] Starting product images import for SKU: 1487820
+[2024-11-02 10:08:33] Fetching assets for product UID: 1487820
+[2024-11-02 10:08:41] Image successfully imported: https://rezasrugs.com/productsFolder/1487820/230303/image-thumb__230303__product_gallery_preview/1487820-205X126.jpg
+[2024-11-02 10:08:54] Image successfully imported: https://rezasrugs.com/productsFolder/1487820/230305/image-thumb__230305__product_gallery_preview/1487820-1.jpg
+[2024-11-02 10:09:07] Image successfully imported: https://rezasrugs.com/productsFolder/1487820/230308/image-thumb__230308__product_gallery_preview/1487820-2.jpg
+[2024-11-02 10:09:20] Image successfully imported: https://rezasrugs.com/productsFolder/1487820/230307/image-thumb__230307__product_gallery_preview/1487820-3.jpg
+[2024-11-02 10:09:31] Image successfully imported: https://rezasrugs.com/productsFolder/1487820/230306/image-thumb__230306__product_gallery_preview/1487820-4.jpg
+[2024-11-02 10:09:31] Images set for product ID: 107482
+[2024-11-02 10:09:31] Starting product images import for SKU: 1487819
+[2024-11-02 10:09:31] Fetching assets for product UID: 1487819
+[2024-11-02 10:09:38] Image successfully imported: https://rezasrugs.com/productsFolder/1487819/230298/image-thumb__230298__product_gallery_preview/1487819-204X120.jpg
+[2024-11-02 10:09:51] Image successfully imported: https://rezasrugs.com/productsFolder/1487819/230301/image-thumb__230301__product_gallery_preview/1487819-1.jpg
+[2024-11-02 10:10:04] Image successfully imported: https://rezasrugs.com/productsFolder/1487819/230300/image-thumb__230300__product_gallery_preview/1487819-2.jpg
+[2024-11-02 10:10:16] Image successfully imported: https://rezasrugs.com/productsFolder/1487819/230304/image-thumb__230304__product_gallery_preview/1487819-3.jpg
+[2024-11-02 10:10:27] Image successfully imported: https://rezasrugs.com/productsFolder/1487819/230302/image-thumb__230302__product_gallery_preview/1487819-4.jpg
+[2024-11-02 10:10:27] Images set for product ID: 107484
+[2024-11-02 10:10:27] Starting product images import for SKU: 1487818
+[2024-11-02 10:10:27] Fetching assets for product UID: 1487818
+[2024-11-02 10:10:36] Image successfully imported: https://rezasrugs.com/productsFolder/1487818/230293/image-thumb__230293__product_gallery_preview/1487818-209X126.jpg
+[2024-11-02 10:10:48] Image successfully imported: https://rezasrugs.com/productsFolder/1487818/230297/image-thumb__230297__product_gallery_preview/1487818-1.jpg
+[2024-11-02 10:11:01] Image successfully imported: https://rezasrugs.com/productsFolder/1487818/230295/image-thumb__230295__product_gallery_preview/1487818-2.jpg
+[2024-11-02 10:11:15] Image successfully imported: https://rezasrugs.com/productsFolder/1487818/230296/image-thumb__230296__product_gallery_preview/1487818-3.jpg
+[2024-11-02 10:11:26] Image successfully imported: https://rezasrugs.com/productsFolder/1487818/230299/image-thumb__230299__product_gallery_preview/1487818-4.jpg
+[2024-11-02 10:11:26] Images set for product ID: 107486
+[2024-11-02 10:11:26] Starting product images import for SKU: 1487817
+[2024-11-02 10:11:26] Fetching assets for product UID: 1487817
+[2024-11-02 10:19:13] Running product import via cron.
+[2024-11-02 10:19:13] Starting Import 50 products from page 69
+[2024-11-02 10:19:13] Starting product import for SKU: 1488149
+[2024-11-02 10:19:14] Successfully fetched price data for product UID: 1488149
+[2024-11-02 10:19:14] Price updated for product UID: 1488149 (ID: 107173)
+[2024-11-02 10:19:14] Invalid inventory data for product UID: 1488149
+[2024-11-02 10:19:14] Product not updated for SKU: 1488149. Last updated is not greater.
+[2024-11-02 10:19:14] Starting product import for SKU: 1488148
+[2024-11-02 10:19:14] Successfully fetched price data for product UID: 1488148
+[2024-11-02 10:19:14] Price updated for product UID: 1488148 (ID: 107446)
+[2024-11-02 10:19:14] Invalid inventory data for product UID: 1488148
+[2024-11-02 10:19:14] Product not updated for SKU: 1488148. Last updated is not greater.
+[2024-11-02 10:19:14] Starting product import for SKU: 1488147
+[2024-11-02 10:19:15] Successfully fetched price data for product UID: 1488147
+[2024-11-02 10:19:15] Price updated for product UID: 1488147 (ID: 107448)
+[2024-11-02 10:19:15] Invalid inventory data for product UID: 1488147
+[2024-11-02 10:19:15] Product not updated for SKU: 1488147. Last updated is not greater.
+[2024-11-02 10:19:15] Starting product import for SKU: 1488146
+[2024-11-02 10:19:15] Successfully fetched price data for product UID: 1488146
+[2024-11-02 10:19:15] Price updated for product UID: 1488146 (ID: 107450)
+[2024-11-02 10:19:16] Invalid inventory data for product UID: 1488146
+[2024-11-02 10:19:16] Product not updated for SKU: 1488146. Last updated is not greater.
+[2024-11-02 10:19:16] Starting product import for SKU: 1488145
+[2024-11-02 10:19:16] Successfully fetched price data for product UID: 1488145
+[2024-11-02 10:19:16] Price updated for product UID: 1488145 (ID: 107452)
+[2024-11-02 10:19:16] Invalid inventory data for product UID: 1488145
+[2024-11-02 10:19:16] Product not updated for SKU: 1488145. Last updated is not greater.
+[2024-11-02 10:19:16] Starting product import for SKU: 1488144
+[2024-11-02 10:19:17] Successfully fetched price data for product UID: 1488144
+[2024-11-02 10:19:17] Price updated for product UID: 1488144 (ID: 107454)
+[2024-11-02 10:19:17] Invalid inventory data for product UID: 1488144
+[2024-11-02 10:19:17] Product not updated for SKU: 1488144. Last updated is not greater.
+[2024-11-02 10:19:17] Starting product import for SKU: 1488143
+[2024-11-02 10:19:17] Successfully fetched price data for product UID: 1488143
+[2024-11-02 10:19:17] Price updated for product UID: 1488143 (ID: 107456)
+[2024-11-02 10:19:17] Invalid inventory data for product UID: 1488143
+[2024-11-02 10:19:17] Product not updated for SKU: 1488143. Last updated is not greater.
+[2024-11-02 10:19:17] Starting product import for SKU: 1488142
+[2024-11-02 10:19:18] Successfully fetched price data for product UID: 1488142
+[2024-11-02 10:19:18] Price updated for product UID: 1488142 (ID: 107458)
+[2024-11-02 10:19:18] Invalid inventory data for product UID: 1488142
+[2024-11-02 10:19:18] Product not updated for SKU: 1488142. Last updated is not greater.
+[2024-11-02 10:19:18] Starting product import for SKU: 1488141
+[2024-11-02 10:19:18] Successfully fetched price data for product UID: 1488141
+[2024-11-02 10:19:18] Price updated for product UID: 1488141 (ID: 107460)
+[2024-11-02 10:19:18] Invalid inventory data for product UID: 1488141
+[2024-11-02 10:19:18] Product not updated for SKU: 1488141. Last updated is not greater.
+[2024-11-02 10:19:18] Starting product import for SKU: 1488139
+[2024-11-02 10:19:19] Successfully fetched price data for product UID: 1488139
+[2024-11-02 10:19:19] Price updated for product UID: 1488139 (ID: 107462)
+[2024-11-02 10:19:19] Invalid inventory data for product UID: 1488139
+[2024-11-02 10:19:19] Product not updated for SKU: 1488139. Last updated is not greater.
+[2024-11-02 10:19:19] Starting product import for SKU: 1488138
+[2024-11-02 10:19:19] Successfully fetched price data for product UID: 1488138
+[2024-11-02 10:19:19] Price updated for product UID: 1488138 (ID: 107464)
+[2024-11-02 10:19:20] Invalid inventory data for product UID: 1488138
+[2024-11-02 10:19:20] Product not updated for SKU: 1488138. Last updated is not greater.
+[2024-11-02 10:19:20] Starting product import for SKU: 1487913
+[2024-11-02 10:19:20] Successfully fetched price data for product UID: 1487913
+[2024-11-02 10:19:20] Price updated for product UID: 1487913 (ID: 107466)
+[2024-11-02 10:19:20] Successfully fetched inventory data for product UID: 1487913
+[2024-11-02 10:19:20] Inventory updated for product UID: 1487913 (ID: 107466)
+[2024-11-02 10:19:20] Product not updated for SKU: 1487913. Last updated is not greater.
+[2024-11-02 10:19:20] Starting product import for SKU: 1487912
+[2024-11-02 10:19:21] Successfully fetched price data for product UID: 1487912
+[2024-11-02 10:19:21] Price updated for product UID: 1487912 (ID: 107468)
+[2024-11-02 10:19:21] Successfully fetched inventory data for product UID: 1487912
+[2024-11-02 10:19:21] Inventory updated for product UID: 1487912 (ID: 107468)
+[2024-11-02 10:19:21] Product not updated for SKU: 1487912. Last updated is not greater.
+[2024-11-02 10:19:21] Starting product import for SKU: 1487911
+[2024-11-02 10:19:21] Successfully fetched price data for product UID: 1487911
+[2024-11-02 10:19:21] Price updated for product UID: 1487911 (ID: 107470)
+[2024-11-02 10:19:21] Successfully fetched inventory data for product UID: 1487911
+[2024-11-02 10:19:21] Inventory updated for product UID: 1487911 (ID: 107470)
+[2024-11-02 10:19:21] Product not updated for SKU: 1487911. Last updated is not greater.
+[2024-11-02 10:19:21] Starting product import for SKU: 1487906
+[2024-11-02 10:19:22] Successfully fetched price data for product UID: 1487906
+[2024-11-02 10:19:22] Price updated for product UID: 1487906 (ID: 107472)
+[2024-11-02 10:19:22] Successfully fetched inventory data for product UID: 1487906
+[2024-11-02 10:19:22] Inventory updated for product UID: 1487906 (ID: 107472)
+[2024-11-02 10:19:22] Product not updated for SKU: 1487906. Last updated is not greater.
+[2024-11-02 10:19:22] Starting product import for SKU: 1487905
+[2024-11-02 10:19:22] Successfully fetched price data for product UID: 1487905
+[2024-11-02 10:19:22] Price updated for product UID: 1487905 (ID: 107474)
+[2024-11-02 10:19:22] Successfully fetched inventory data for product UID: 1487905
+[2024-11-02 10:19:22] Inventory updated for product UID: 1487905 (ID: 107474)
+[2024-11-02 10:19:22] Product not updated for SKU: 1487905. Last updated is not greater.
+[2024-11-02 10:19:22] Starting product import for SKU: 1487826
+[2024-11-02 10:19:23] Successfully fetched price data for product UID: 1487826
+[2024-11-02 10:19:23] Price updated for product UID: 1487826 (ID: 107476)
+[2024-11-02 10:19:23] Successfully fetched inventory data for product UID: 1487826
+[2024-11-02 10:19:23] Inventory updated for product UID: 1487826 (ID: 107476)
+[2024-11-02 10:19:23] Product not updated for SKU: 1487826. Last updated is not greater.
+[2024-11-02 10:19:23] Starting product import for SKU: 1487824
+[2024-11-02 10:19:23] Successfully fetched price data for product UID: 1487824
+[2024-11-02 10:19:23] Price updated for product UID: 1487824 (ID: 107478)
+[2024-11-02 10:19:24] Successfully fetched inventory data for product UID: 1487824
+[2024-11-02 10:19:24] Inventory updated for product UID: 1487824 (ID: 107478)
+[2024-11-02 10:19:24] Product not updated for SKU: 1487824. Last updated is not greater.
+[2024-11-02 10:19:24] Starting product import for SKU: 1487821
+[2024-11-02 10:19:24] Successfully fetched price data for product UID: 1487821
+[2024-11-02 10:19:24] Price updated for product UID: 1487821 (ID: 107480)
+[2024-11-02 10:19:24] Successfully fetched inventory data for product UID: 1487821
+[2024-11-02 10:19:24] Inventory updated for product UID: 1487821 (ID: 107480)
+[2024-11-02 10:19:24] Product not updated for SKU: 1487821. Last updated is not greater.
+[2024-11-02 10:19:24] Starting product import for SKU: 1487820
+[2024-11-02 10:19:25] Successfully fetched price data for product UID: 1487820
+[2024-11-02 10:19:25] Price updated for product UID: 1487820 (ID: 107482)
+[2024-11-02 10:19:25] Successfully fetched inventory data for product UID: 1487820
+[2024-11-02 10:19:25] Inventory updated for product UID: 1487820 (ID: 107482)
+[2024-11-02 10:19:25] Product not updated for SKU: 1487820. Last updated is not greater.
+[2024-11-02 10:19:25] Starting product import for SKU: 1487819
+[2024-11-02 10:19:25] Successfully fetched price data for product UID: 1487819
+[2024-11-02 10:19:25] Price updated for product UID: 1487819 (ID: 107484)
+[2024-11-02 10:19:25] Successfully fetched inventory data for product UID: 1487819
+[2024-11-02 10:19:25] Inventory updated for product UID: 1487819 (ID: 107484)
+[2024-11-02 10:19:25] Product not updated for SKU: 1487819. Last updated is not greater.
+[2024-11-02 10:19:25] Starting product import for SKU: 1487818
+[2024-11-02 10:19:26] Successfully fetched price data for product UID: 1487818
+[2024-11-02 10:19:26] Price updated for product UID: 1487818 (ID: 107486)
+[2024-11-02 10:19:26] Successfully fetched inventory data for product UID: 1487818
+[2024-11-02 10:19:26] Inventory updated for product UID: 1487818 (ID: 107486)
+[2024-11-02 10:19:26] Product not updated for SKU: 1487818. Last updated is not greater.
+[2024-11-02 10:19:26] Starting product import for SKU: 1487817
+[2024-11-02 10:19:26] Successfully fetched price data for product UID: 1487817
+[2024-11-02 10:19:26] Price updated for product UID: 1487817 (ID: 107488)
+[2024-11-02 10:19:26] Successfully fetched inventory data for product UID: 1487817
+[2024-11-02 10:19:26] Inventory updated for product UID: 1487817 (ID: 107488)
+[2024-11-02 10:19:27] Product updated with ID: 107488 for SKU: 1487817
+[2024-11-02 10:19:27] Fetching category with UID: 10081
+[2024-11-02 10:19:27] Product meta updated for product ID: 107488
+[2024-11-02 10:19:27] Starting product import for SKU: 1487812
+[2024-11-02 10:19:27] Successfully fetched price data for product UID: 1487812
+[2024-11-02 10:19:27] Price updated for product UID: 1487812 (ID: 107490)
+[2024-11-02 10:19:27] Successfully fetched inventory data for product UID: 1487812
+[2024-11-02 10:19:27] Inventory updated for product UID: 1487812 (ID: 107490)
+[2024-11-02 10:19:27] Product updated with ID: 107490 for SKU: 1487812
+[2024-11-02 10:19:27] Fetching category with UID: 10081
+[2024-11-02 10:19:28] Product meta updated for product ID: 107490
+[2024-11-02 10:19:28] Starting product import for SKU: 1487811
+[2024-11-02 10:19:28] Successfully fetched price data for product UID: 1487811
+[2024-11-02 10:19:28] Price updated for product UID: 1487811 (ID: 107492)
+[2024-11-02 10:19:28] Successfully fetched inventory data for product UID: 1487811
+[2024-11-02 10:19:28] Inventory updated for product UID: 1487811 (ID: 107492)
+[2024-11-02 10:19:28] Product updated with ID: 107492 for SKU: 1487811
+[2024-11-02 10:19:28] Fetching category with UID: 10039
+[2024-11-02 10:19:29] Product meta updated for product ID: 107492
+[2024-11-02 10:19:29] Starting product import for SKU: 1487808
+[2024-11-02 10:19:29] Successfully fetched price data for product UID: 1487808
+[2024-11-02 10:19:29] Price updated for product UID: 1487808 (ID: 107494)
+[2024-11-02 10:19:29] Successfully fetched inventory data for product UID: 1487808
+[2024-11-02 10:19:29] Inventory updated for product UID: 1487808 (ID: 107494)
+[2024-11-02 10:19:29] Product updated with ID: 107494 for SKU: 1487808
+[2024-11-02 10:19:29] Fetching category with UID: 10081
+[2024-11-02 10:19:30] Product meta updated for product ID: 107494
+[2024-11-02 10:19:30] Starting product import for SKU: 1487804
+[2024-11-02 10:19:30] Successfully fetched price data for product UID: 1487804
+[2024-11-02 10:19:30] Price updated for product UID: 1487804 (ID: 107496)
+[2024-11-02 10:19:30] Successfully fetched inventory data for product UID: 1487804
+[2024-11-02 10:19:30] Inventory updated for product UID: 1487804 (ID: 107496)
+[2024-11-02 10:19:30] Product updated with ID: 107496 for SKU: 1487804
+[2024-11-02 10:19:30] Fetching category with UID: 10039
+[2024-11-02 10:19:30] Product meta updated for product ID: 107496
+[2024-11-02 10:19:30] Starting product import for SKU: 1487803
+[2024-11-02 10:19:31] Successfully fetched price data for product UID: 1487803
+[2024-11-02 10:19:31] Price updated for product UID: 1487803 (ID: 107498)
+[2024-11-02 10:19:31] Successfully fetched inventory data for product UID: 1487803
+[2024-11-02 10:19:31] Inventory updated for product UID: 1487803 (ID: 107498)
+[2024-11-02 10:19:31] Product updated with ID: 107498 for SKU: 1487803
+[2024-11-02 10:19:31] Fetching category with UID: 10063
+[2024-11-02 10:19:31] Product meta updated for product ID: 107498
+[2024-11-02 10:19:31] Starting product import for SKU: 1487800
+[2024-11-02 10:19:32] Successfully fetched price data for product UID: 1487800
+[2024-11-02 10:19:32] Price updated for product UID: 1487800 (ID: 107500)
+[2024-11-02 10:19:32] Successfully fetched inventory data for product UID: 1487800
+[2024-11-02 10:19:32] Inventory updated for product UID: 1487800 (ID: 107500)
+[2024-11-02 10:19:32] Product updated with ID: 107500 for SKU: 1487800
+[2024-11-02 10:19:32] Fetching category with UID: 10081
+[2024-11-02 10:19:32] Product meta updated for product ID: 107500
+[2024-11-02 10:19:32] Starting product import for SKU: 1487799
+[2024-11-02 10:19:33] Successfully fetched price data for product UID: 1487799
+[2024-11-02 10:19:33] Price updated for product UID: 1487799 (ID: 107502)
+[2024-11-02 10:19:33] Successfully fetched inventory data for product UID: 1487799
+[2024-11-02 10:19:33] Inventory updated for product UID: 1487799 (ID: 107502)
+[2024-11-02 10:19:33] Product updated with ID: 107502 for SKU: 1487799
+[2024-11-02 10:19:33] Fetching category with UID: 10039
+[2024-11-02 10:19:33] Product meta updated for product ID: 107502
+[2024-11-02 10:19:33] Starting product import for SKU: 1487798
+[2024-11-02 10:19:33] Successfully fetched price data for product UID: 1487798
+[2024-11-02 10:19:33] Price updated for product UID: 1487798 (ID: 107504)
+[2024-11-02 10:19:34] Successfully fetched inventory data for product UID: 1487798
+[2024-11-02 10:19:34] Inventory updated for product UID: 1487798 (ID: 107504)
+[2024-11-02 10:19:34] Product updated with ID: 107504 for SKU: 1487798
+[2024-11-02 10:19:34] Fetching category with UID: 10039
+[2024-11-02 10:19:34] Product meta updated for product ID: 107504
+[2024-11-02 10:19:34] Starting product import for SKU: 1487796
+[2024-11-02 10:19:34] Successfully fetched price data for product UID: 1487796
+[2024-11-02 10:19:34] Price updated for product UID: 1487796 (ID: 107506)
+[2024-11-02 10:19:35] Successfully fetched inventory data for product UID: 1487796
+[2024-11-02 10:19:35] Inventory updated for product UID: 1487796 (ID: 107506)
+[2024-11-02 10:19:35] Product updated with ID: 107506 for SKU: 1487796
+[2024-11-02 10:19:35] Fetching category with UID: 10081
+[2024-11-02 10:19:35] Product meta updated for product ID: 107506
+[2024-11-02 10:19:35] Starting product import for SKU: 1487793
+[2024-11-02 10:19:35] Successfully fetched price data for product UID: 1487793
+[2024-11-02 10:19:35] Price updated for product UID: 1487793 (ID: 107508)
+[2024-11-02 10:19:35] Successfully fetched inventory data for product UID: 1487793
+[2024-11-02 10:19:35] Inventory updated for product UID: 1487793 (ID: 107508)
+[2024-11-02 10:19:35] Product updated with ID: 107508 for SKU: 1487793
+[2024-11-02 10:19:35] Fetching category with UID: 10081
+[2024-11-02 10:19:36] Product meta updated for product ID: 107508
+[2024-11-02 10:19:36] Starting product import for SKU: 1487789
+[2024-11-02 10:19:36] Successfully fetched price data for product UID: 1487789
+[2024-11-02 10:19:36] Price updated for product UID: 1487789 (ID: 107510)
+[2024-11-02 10:19:36] Successfully fetched inventory data for product UID: 1487789
+[2024-11-02 10:19:36] Inventory updated for product UID: 1487789 (ID: 107510)
+[2024-11-02 10:19:36] Product updated with ID: 107510 for SKU: 1487789
+[2024-11-02 10:19:36] Fetching category with UID: 10081
+[2024-11-02 10:19:37] Product meta updated for product ID: 107510
+[2024-11-02 10:19:37] Starting product import for SKU: 1487788
+[2024-11-02 10:19:37] Successfully fetched price data for product UID: 1487788
+[2024-11-02 10:19:37] Price updated for product UID: 1487788 (ID: 107512)
+[2024-11-02 10:19:37] Successfully fetched inventory data for product UID: 1487788
+[2024-11-02 10:19:37] Inventory updated for product UID: 1487788 (ID: 107512)
+[2024-11-02 10:19:37] Product updated with ID: 107512 for SKU: 1487788
+[2024-11-02 10:19:37] Fetching category with UID: 10039
+[2024-11-02 10:19:37] Product meta updated for product ID: 107512
+[2024-11-02 10:19:37] Starting product import for SKU: 1487785
+[2024-11-02 10:19:38] Successfully fetched price data for product UID: 1487785
+[2024-11-02 10:19:38] Price updated for product UID: 1487785 (ID: 107514)
+[2024-11-02 10:19:38] Successfully fetched inventory data for product UID: 1487785
+[2024-11-02 10:19:38] Inventory updated for product UID: 1487785 (ID: 107514)
+[2024-11-02 10:19:38] Product updated with ID: 107514 for SKU: 1487785
+[2024-11-02 10:19:38] Fetching category with UID: 10039
+[2024-11-02 10:19:38] Product meta updated for product ID: 107514
+[2024-11-02 10:19:38] Starting product import for SKU: 1487784
+[2024-11-02 10:19:39] Successfully fetched price data for product UID: 1487784
+[2024-11-02 10:19:39] Price updated for product UID: 1487784 (ID: 107516)
+[2024-11-02 10:19:39] Successfully fetched inventory data for product UID: 1487784
+[2024-11-02 10:19:39] Inventory updated for product UID: 1487784 (ID: 107516)
+[2024-11-02 10:19:39] Product updated with ID: 107516 for SKU: 1487784
+[2024-11-02 10:19:39] Fetching category with UID: 10039
+[2024-11-02 10:19:39] Product meta updated for product ID: 107516
+[2024-11-02 10:19:39] Starting product import for SKU: 1487783
+[2024-11-02 10:19:40] Successfully fetched price data for product UID: 1487783
+[2024-11-02 10:19:40] Price updated for product UID: 1487783 (ID: 107518)
+[2024-11-02 10:19:40] Successfully fetched inventory data for product UID: 1487783
+[2024-11-02 10:19:40] Inventory updated for product UID: 1487783 (ID: 107518)
+[2024-11-02 10:19:40] Product updated with ID: 107518 for SKU: 1487783
+[2024-11-02 10:19:40] Fetching category with UID: 10039
+[2024-11-02 10:19:40] Product meta updated for product ID: 107518
+[2024-11-02 10:19:40] Starting product import for SKU: 1487782
+[2024-11-02 10:19:41] Successfully fetched price data for product UID: 1487782
+[2024-11-02 10:19:41] Price updated for product UID: 1487782 (ID: 107520)
+[2024-11-02 10:19:41] Successfully fetched inventory data for product UID: 1487782
+[2024-11-02 10:19:41] Inventory updated for product UID: 1487782 (ID: 107520)
+[2024-11-02 10:19:41] Product updated with ID: 107520 for SKU: 1487782
+[2024-11-02 10:19:41] Fetching category with UID: 10039
+[2024-11-02 10:19:41] Product meta updated for product ID: 107520
+[2024-11-02 10:19:41] Starting product import for SKU: 1487781
+[2024-11-02 10:19:41] Successfully fetched price data for product UID: 1487781
+[2024-11-02 10:19:41] Price updated for product UID: 1487781 (ID: 107522)
+[2024-11-02 10:19:42] Successfully fetched inventory data for product UID: 1487781
+[2024-11-02 10:19:42] Inventory updated for product UID: 1487781 (ID: 107522)
+[2024-11-02 10:19:42] Product updated with ID: 107522 for SKU: 1487781
+[2024-11-02 10:19:42] Fetching category with UID: 10081
+[2024-11-02 10:19:42] Product meta updated for product ID: 107522
+[2024-11-02 10:19:42] Starting product import for SKU: 1487780
+[2024-11-02 10:19:42] Successfully fetched price data for product UID: 1487780
+[2024-11-02 10:19:42] Price updated for product UID: 1487780 (ID: 107524)
+[2024-11-02 10:19:43] Successfully fetched inventory data for product UID: 1487780
+[2024-11-02 10:19:43] Inventory updated for product UID: 1487780 (ID: 107524)
+[2024-11-02 10:19:43] Product updated with ID: 107524 for SKU: 1487780
+[2024-11-02 10:19:43] Fetching category with UID: 10081
+[2024-11-02 10:19:43] Product meta updated for product ID: 107524
+[2024-11-02 10:19:43] Starting product import for SKU: 1487779
+[2024-11-02 10:19:43] Successfully fetched price data for product UID: 1487779
+[2024-11-02 10:19:43] Price updated for product UID: 1487779 (ID: 107526)
+[2024-11-02 10:19:43] Successfully fetched inventory data for product UID: 1487779
+[2024-11-02 10:19:43] Inventory updated for product UID: 1487779 (ID: 107526)
+[2024-11-02 10:19:43] Product updated with ID: 107526 for SKU: 1487779
+[2024-11-02 10:19:43] Fetching category with UID: 10081
+[2024-11-02 10:19:44] Product meta updated for product ID: 107526
+[2024-11-02 10:19:44] Starting product import for SKU: 1487777
+[2024-11-02 10:19:44] Successfully fetched price data for product UID: 1487777
+[2024-11-02 10:19:44] Price updated for product UID: 1487777 (ID: 107528)
+[2024-11-02 10:19:44] Successfully fetched inventory data for product UID: 1487777
+[2024-11-02 10:19:44] Inventory updated for product UID: 1487777 (ID: 107528)
+[2024-11-02 10:19:44] Product updated with ID: 107528 for SKU: 1487777
+[2024-11-02 10:19:44] Fetching category with UID: 10081
+[2024-11-02 10:19:45] Product meta updated for product ID: 107528
+[2024-11-02 10:19:45] Starting product import for SKU: 1487774
+[2024-11-02 10:19:45] Successfully fetched price data for product UID: 1487774
+[2024-11-02 10:19:45] Price updated for product UID: 1487774 (ID: 107530)
+[2024-11-02 10:19:45] Successfully fetched inventory data for product UID: 1487774
+[2024-11-02 10:19:45] Inventory updated for product UID: 1487774 (ID: 107530)
+[2024-11-02 10:19:45] Product updated with ID: 107530 for SKU: 1487774
+[2024-11-02 10:19:45] Fetching category with UID: 10039
+[2024-11-02 10:19:45] Product meta updated for product ID: 107530
+[2024-11-02 10:19:45] Starting product import for SKU: 1487773
+[2024-11-02 10:19:46] Successfully fetched price data for product UID: 1487773
+[2024-11-02 10:19:46] Price updated for product UID: 1487773 (ID: 107532)
+[2024-11-02 10:19:46] Successfully fetched inventory data for product UID: 1487773
+[2024-11-02 10:19:46] Inventory updated for product UID: 1487773 (ID: 107532)
+[2024-11-02 10:19:46] Product updated with ID: 107532 for SKU: 1487773
+[2024-11-02 10:19:46] Fetching category with UID: 10039
+[2024-11-02 10:19:46] Product meta updated for product ID: 107532
+[2024-11-02 10:19:46] Starting product import for SKU: 1487771
+[2024-11-02 10:19:47] Successfully fetched price data for product UID: 1487771
+[2024-11-02 10:19:47] Price updated for product UID: 1487771 (ID: 107534)
+[2024-11-02 10:19:47] Successfully fetched inventory data for product UID: 1487771
+[2024-11-02 10:19:47] Inventory updated for product UID: 1487771 (ID: 107534)
+[2024-11-02 10:19:47] Product updated with ID: 107534 for SKU: 1487771
+[2024-11-02 10:19:47] Fetching category with UID: 10081
+[2024-11-02 10:19:47] Product meta updated for product ID: 107534
+[2024-11-02 10:19:47] Starting product import for SKU: 1487769
+[2024-11-02 10:19:48] Successfully fetched price data for product UID: 1487769
+[2024-11-02 10:19:48] Price updated for product UID: 1487769 (ID: 107536)
+[2024-11-02 10:19:48] Successfully fetched inventory data for product UID: 1487769
+[2024-11-02 10:19:48] Inventory updated for product UID: 1487769 (ID: 107536)
+[2024-11-02 10:19:48] Product updated with ID: 107536 for SKU: 1487769
+[2024-11-02 10:19:48] Fetching category with UID: 10039
+[2024-11-02 10:19:48] Product meta updated for product ID: 107536
+[2024-11-02 10:19:48] Starting product import for SKU: 1487768
+[2024-11-02 10:19:49] Successfully fetched price data for product UID: 1487768
+[2024-11-02 10:19:49] Price updated for product UID: 1487768 (ID: 107538)
+[2024-11-02 10:19:49] Successfully fetched inventory data for product UID: 1487768
+[2024-11-02 10:19:49] Inventory updated for product UID: 1487768 (ID: 107538)
+[2024-11-02 10:19:49] Product updated with ID: 107538 for SKU: 1487768
+[2024-11-02 10:19:49] Fetching category with UID: 10081
+[2024-11-02 10:19:49] Product meta updated for product ID: 107538
+[2024-11-02 10:19:49] Starting product import for SKU: 1487767
+[2024-11-02 10:19:49] Successfully fetched price data for product UID: 1487767
+[2024-11-02 10:19:49] Price updated for product UID: 1487767 (ID: 107540)
+[2024-11-02 10:19:50] Successfully fetched inventory data for product UID: 1487767
+[2024-11-02 10:19:50] Inventory updated for product UID: 1487767 (ID: 107540)
+[2024-11-02 10:19:50] Product updated with ID: 107540 for SKU: 1487767
+[2024-11-02 10:19:50] Fetching category with UID: 10081
+[2024-11-02 10:19:50] Product meta updated for product ID: 107540
+[2024-11-02 10:19:50] Starting product import for SKU: 1487764
+[2024-11-02 10:19:50] Successfully fetched price data for product UID: 1487764
+[2024-11-02 10:19:50] Price updated for product UID: 1487764 (ID: 107542)
+[2024-11-02 10:19:51] Successfully fetched inventory data for product UID: 1487764
+[2024-11-02 10:19:51] Inventory updated for product UID: 1487764 (ID: 107542)
+[2024-11-02 10:19:51] Product updated with ID: 107542 for SKU: 1487764
+[2024-11-02 10:19:51] Fetching category with UID: 10039
+[2024-11-02 10:19:51] Product meta updated for product ID: 107542
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488149
+[2024-11-02 10:19:51] Product not updated for SKU: 1488149. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488148
+[2024-11-02 10:19:51] Product not updated for SKU: 1488148. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488147
+[2024-11-02 10:19:51] Product not updated for SKU: 1488147. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488146
+[2024-11-02 10:19:51] Product not updated for SKU: 1488146. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488145
+[2024-11-02 10:19:51] Product not updated for SKU: 1488145. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488144
+[2024-11-02 10:19:51] Product not updated for SKU: 1488144. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488143
+[2024-11-02 10:19:51] Product not updated for SKU: 1488143. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488142
+[2024-11-02 10:19:51] Product not updated for SKU: 1488142. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488141
+[2024-11-02 10:19:51] Product not updated for SKU: 1488141. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488139
+[2024-11-02 10:19:51] Product not updated for SKU: 1488139. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1488138
+[2024-11-02 10:19:51] Product not updated for SKU: 1488138. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487913
+[2024-11-02 10:19:51] Product not updated for SKU: 1487913. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487912
+[2024-11-02 10:19:51] Product not updated for SKU: 1487912. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487911
+[2024-11-02 10:19:51] Product not updated for SKU: 1487911. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487906
+[2024-11-02 10:19:51] Product not updated for SKU: 1487906. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487905
+[2024-11-02 10:19:51] Product not updated for SKU: 1487905. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487826
+[2024-11-02 10:19:51] Product not updated for SKU: 1487826. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487824
+[2024-11-02 10:19:51] Product not updated for SKU: 1487824. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487821
+[2024-11-02 10:19:51] Product not updated for SKU: 1487821. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487820
+[2024-11-02 10:19:51] Product not updated for SKU: 1487820. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487819
+[2024-11-02 10:19:51] Product not updated for SKU: 1487819. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487818
+[2024-11-02 10:19:51] Product not updated for SKU: 1487818. Last updated is not greater.
+[2024-11-02 10:19:51] Starting product images import for SKU: 1487817
+[2024-11-02 10:19:51] Fetching assets for product UID: 1487817
+[2024-11-02 10:19:52] Image already exists in media library: https://rezasrugs.com/productsFolder/1487817/230289/image-thumb__230289__product_gallery_preview/1487817-218X120.jpg
+[2024-11-02 10:20:06] Image successfully imported: https://rezasrugs.com/productsFolder/1487817/230290/image-thumb__230290__product_gallery_preview/1487817-1.jpg
+[2024-11-02 10:20:18] Image successfully imported: https://rezasrugs.com/productsFolder/1487817/230292/image-thumb__230292__product_gallery_preview/1487817-2.jpg
+[2024-11-02 10:20:32] Image successfully imported: https://rezasrugs.com/productsFolder/1487817/230294/image-thumb__230294__product_gallery_preview/1487817-3.jpg
+[2024-11-02 10:20:42] Image successfully imported: https://rezasrugs.com/productsFolder/1487817/230291/image-thumb__230291__product_gallery_preview/1487817-4.jpg
+[2024-11-02 10:20:42] Images set for product ID: 107488
+[2024-11-02 10:20:42] Starting product images import for SKU: 1487812
+[2024-11-02 10:20:42] Fetching assets for product UID: 1487812
+[2024-11-02 10:20:54] Image successfully imported: https://rezasrugs.com/productsFolder/1487812/230264/image-thumb__230264__product_gallery_preview/1487812-235X136.jpg

@@ -1,0 +1,759 @@
+[2024-11-22 04:53:23] Running product import via cron.
+[2024-11-22 04:53:23] Starting Import 50 products from page 36
+[2024-11-22 04:53:24] Starting product import for SKU: 1498355
+[2024-11-22 04:53:25] Successfully fetched price data for product UID: 1498355
+[2024-11-22 04:53:25] Price updated for product UID: 1498355 (ID: 86867)
+[2024-11-22 04:53:25] Successfully fetched inventory data for product UID: 1498355
+[2024-11-22 04:53:25] Inventory updated for product UID: 1498355 (ID: 86867)
+[2024-11-22 04:53:25] Product updated with ID: 86867 for SKU: 1498355
+[2024-11-22 04:53:25] Fetching category with UID: 10028
+[2024-11-22 04:53:25] Starting product import for SKU: 1498354
+[2024-11-22 04:53:26] Successfully fetched price data for product UID: 1498354
+[2024-11-22 04:53:26] Price updated for product UID: 1498354 (ID: 86869)
+[2024-11-22 04:53:26] Successfully fetched inventory data for product UID: 1498354
+[2024-11-22 04:53:26] Inventory updated for product UID: 1498354 (ID: 86869)
+[2024-11-22 04:53:26] Product updated with ID: 86869 for SKU: 1498354
+[2024-11-22 04:53:26] Fetching category with UID: 10028
+[2024-11-22 04:53:27] Starting product import for SKU: 1498353
+[2024-11-22 04:53:27] Successfully fetched price data for product UID: 1498353
+[2024-11-22 04:53:27] Price updated for product UID: 1498353 (ID: 86871)
+[2024-11-22 04:53:27] Successfully fetched inventory data for product UID: 1498353
+[2024-11-22 04:53:27] Inventory updated for product UID: 1498353 (ID: 86871)
+[2024-11-22 04:53:27] Product updated with ID: 86871 for SKU: 1498353
+[2024-11-22 04:53:27] Fetching category with UID: 10028
+[2024-11-22 04:53:28] Starting product import for SKU: 1498352
+[2024-11-22 04:53:28] Successfully fetched price data for product UID: 1498352
+[2024-11-22 04:53:28] Price updated for product UID: 1498352 (ID: 86873)
+[2024-11-22 04:53:29] Successfully fetched inventory data for product UID: 1498352
+[2024-11-22 04:53:29] Inventory updated for product UID: 1498352 (ID: 86873)
+[2024-11-22 04:53:29] Product updated with ID: 86873 for SKU: 1498352
+[2024-11-22 04:53:29] Fetching category with UID: 10028
+[2024-11-22 04:53:29] Starting product import for SKU: 1498349
+[2024-11-22 04:53:29] Successfully fetched price data for product UID: 1498349
+[2024-11-22 04:53:29] Price updated for product UID: 1498349 (ID: 86879)
+[2024-11-22 04:53:30] Successfully fetched inventory data for product UID: 1498349
+[2024-11-22 04:53:30] Inventory updated for product UID: 1498349 (ID: 86879)
+[2024-11-22 04:53:30] Product updated with ID: 86879 for SKU: 1498349
+[2024-11-22 04:53:30] Fetching category with UID: 10028
+[2024-11-22 04:53:30] Starting product import for SKU: 1498348
+[2024-11-22 04:53:31] Successfully fetched price data for product UID: 1498348
+[2024-11-22 04:53:31] Price updated for product UID: 1498348 (ID: 86881)
+[2024-11-22 04:53:31] Successfully fetched inventory data for product UID: 1498348
+[2024-11-22 04:53:31] Inventory updated for product UID: 1498348 (ID: 86881)
+[2024-11-22 04:53:31] Product updated with ID: 86881 for SKU: 1498348
+[2024-11-22 04:53:31] Fetching category with UID: 10028
+[2024-11-22 04:53:31] Starting product import for SKU: 1498345
+[2024-11-22 04:53:32] Successfully fetched price data for product UID: 1498345
+[2024-11-22 04:53:32] Price updated for product UID: 1498345 (ID: 86887)
+[2024-11-22 04:53:32] Successfully fetched inventory data for product UID: 1498345
+[2024-11-22 04:53:32] Inventory updated for product UID: 1498345 (ID: 86887)
+[2024-11-22 04:53:32] Product updated with ID: 86887 for SKU: 1498345
+[2024-11-22 04:53:32] Fetching category with UID: 10028
+[2024-11-22 04:53:32] Starting product import for SKU: 1498343
+[2024-11-22 04:53:33] Successfully fetched price data for product UID: 1498343
+[2024-11-22 04:53:33] Price updated for product UID: 1498343 (ID: 86891)
+[2024-11-22 04:53:33] Successfully fetched inventory data for product UID: 1498343
+[2024-11-22 04:53:33] Inventory updated for product UID: 1498343 (ID: 86891)
+[2024-11-22 04:53:33] Product updated with ID: 86891 for SKU: 1498343
+[2024-11-22 04:53:33] Fetching category with UID: 10028
+[2024-11-22 04:53:33] Starting product import for SKU: 1498342
+[2024-11-22 04:53:34] Successfully fetched price data for product UID: 1498342
+[2024-11-22 04:53:34] Price updated for product UID: 1498342 (ID: 86893)
+[2024-11-22 04:53:34] Successfully fetched inventory data for product UID: 1498342
+[2024-11-22 04:53:34] Inventory updated for product UID: 1498342 (ID: 86893)
+[2024-11-22 04:53:34] Product updated with ID: 86893 for SKU: 1498342
+[2024-11-22 04:53:34] Fetching category with UID: 10028
+[2024-11-22 04:53:35] Starting product import for SKU: 1498338
+[2024-11-22 04:53:35] Successfully fetched price data for product UID: 1498338
+[2024-11-22 04:53:35] Price updated for product UID: 1498338 (ID: 86895)
+[2024-11-22 04:53:35] Successfully fetched inventory data for product UID: 1498338
+[2024-11-22 04:53:35] Inventory updated for product UID: 1498338 (ID: 86895)
+[2024-11-22 04:53:35] Product updated with ID: 86895 for SKU: 1498338
+[2024-11-22 04:53:35] Fetching category with UID: 10028
+[2024-11-22 04:53:36] Starting product import for SKU: 1498337
+[2024-11-22 04:53:36] Successfully fetched price data for product UID: 1498337
+[2024-11-22 04:53:36] Price updated for product UID: 1498337 (ID: 86897)
+[2024-11-22 04:53:36] Successfully fetched inventory data for product UID: 1498337
+[2024-11-22 04:53:36] Inventory updated for product UID: 1498337 (ID: 86897)
+[2024-11-22 04:53:36] Product updated with ID: 86897 for SKU: 1498337
+[2024-11-22 04:53:36] Fetching category with UID: 10028
+[2024-11-22 04:53:37] Starting product import for SKU: 1498336
+[2024-11-22 04:53:37] Successfully fetched price data for product UID: 1498336
+[2024-11-22 04:53:37] Price updated for product UID: 1498336 (ID: 86899)
+[2024-11-22 04:53:37] Successfully fetched inventory data for product UID: 1498336
+[2024-11-22 04:53:37] Inventory updated for product UID: 1498336 (ID: 86899)
+[2024-11-22 04:53:38] Product updated with ID: 86899 for SKU: 1498336
+[2024-11-22 04:53:38] Fetching category with UID: 10028
+[2024-11-22 04:53:38] Starting product import for SKU: 1498333
+[2024-11-22 04:53:38] Successfully fetched price data for product UID: 1498333
+[2024-11-22 04:53:38] Price updated for product UID: 1498333 (ID: 86901)
+[2024-11-22 04:53:39] Successfully fetched inventory data for product UID: 1498333
+[2024-11-22 04:53:39] Inventory updated for product UID: 1498333 (ID: 86901)
+[2024-11-22 04:53:39] Product updated with ID: 86901 for SKU: 1498333
+[2024-11-22 04:53:39] Fetching category with UID: 10028
+[2024-11-22 04:53:39] Starting product import for SKU: 1498332
+[2024-11-22 04:53:40] Successfully fetched price data for product UID: 1498332
+[2024-11-22 04:53:40] Price updated for product UID: 1498332 (ID: 86903)
+[2024-11-22 04:53:40] Successfully fetched inventory data for product UID: 1498332
+[2024-11-22 04:53:40] Inventory updated for product UID: 1498332 (ID: 86903)
+[2024-11-22 04:53:40] Product updated with ID: 86903 for SKU: 1498332
+[2024-11-22 04:53:40] Fetching category with UID: 10028
+[2024-11-22 04:53:40] Starting product import for SKU: 1498330
+[2024-11-22 04:53:41] Successfully fetched price data for product UID: 1498330
+[2024-11-22 04:53:41] Price updated for product UID: 1498330 (ID: 86907)
+[2024-11-22 04:53:41] Successfully fetched inventory data for product UID: 1498330
+[2024-11-22 04:53:41] Inventory updated for product UID: 1498330 (ID: 86907)
+[2024-11-22 04:53:41] Product updated with ID: 86907 for SKU: 1498330
+[2024-11-22 04:53:41] Fetching category with UID: 10028
+[2024-11-22 04:53:41] Starting product import for SKU: 1498327
+[2024-11-22 04:53:42] Invalid price data for product UID: 1498327
+[2024-11-22 04:53:42] Successfully fetched inventory data for product UID: 1498327
+[2024-11-22 04:53:42] Inventory updated for product UID: 1498327 (ID: 86909)
+[2024-11-22 04:53:42] Product updated with ID: 86909 for SKU: 1498327
+[2024-11-22 04:53:42] Fetching category with UID: 10028
+[2024-11-22 04:53:42] Starting product import for SKU: 1498326
+[2024-11-22 04:53:43] Successfully fetched price data for product UID: 1498326
+[2024-11-22 04:53:43] Price updated for product UID: 1498326 (ID: 86911)
+[2024-11-22 04:53:43] Successfully fetched inventory data for product UID: 1498326
+[2024-11-22 04:53:43] Inventory updated for product UID: 1498326 (ID: 86911)
+[2024-11-22 04:53:43] Product updated with ID: 86911 for SKU: 1498326
+[2024-11-22 04:53:43] Fetching category with UID: 10028
+[2024-11-22 04:53:43] Starting product import for SKU: 1498325
+[2024-11-22 04:53:44] Successfully fetched price data for product UID: 1498325
+[2024-11-22 04:53:44] Price updated for product UID: 1498325 (ID: 86913)
+[2024-11-22 04:53:44] Successfully fetched inventory data for product UID: 1498325
+[2024-11-22 04:53:44] Inventory updated for product UID: 1498325 (ID: 86913)
+[2024-11-22 04:53:44] Product updated with ID: 86913 for SKU: 1498325
+[2024-11-22 04:53:44] Fetching category with UID: 10028
+[2024-11-22 04:53:44] Starting product import for SKU: 1498324
+[2024-11-22 04:53:45] Successfully fetched price data for product UID: 1498324
+[2024-11-22 04:53:45] Price updated for product UID: 1498324 (ID: 86915)
+[2024-11-22 04:53:45] Successfully fetched inventory data for product UID: 1498324
+[2024-11-22 04:53:45] Inventory updated for product UID: 1498324 (ID: 86915)
+[2024-11-22 04:53:45] Product updated with ID: 86915 for SKU: 1498324
+[2024-11-22 04:53:45] Fetching category with UID: 10028
+[2024-11-22 04:53:45] Starting product import for SKU: 1498323
+[2024-11-22 04:53:46] Successfully fetched price data for product UID: 1498323
+[2024-11-22 04:53:46] Price updated for product UID: 1498323 (ID: 86917)
+[2024-11-22 04:53:46] Successfully fetched inventory data for product UID: 1498323
+[2024-11-22 04:53:46] Inventory updated for product UID: 1498323 (ID: 86917)
+[2024-11-22 04:53:46] Product updated with ID: 86917 for SKU: 1498323
+[2024-11-22 04:53:46] Fetching category with UID: 10028
+[2024-11-22 04:53:46] Starting product import for SKU: 1498322
+[2024-11-22 04:53:47] Successfully fetched price data for product UID: 1498322
+[2024-11-22 04:53:47] Price updated for product UID: 1498322 (ID: 86919)
+[2024-11-22 04:53:47] Successfully fetched inventory data for product UID: 1498322
+[2024-11-22 04:53:47] Inventory updated for product UID: 1498322 (ID: 86919)
+[2024-11-22 04:53:47] Product updated with ID: 86919 for SKU: 1498322
+[2024-11-22 04:53:47] Fetching category with UID: 10028
+[2024-11-22 04:53:47] Starting product import for SKU: 1498321
+[2024-11-22 04:53:48] Successfully fetched price data for product UID: 1498321
+[2024-11-22 04:53:48] Price updated for product UID: 1498321 (ID: 86921)
+[2024-11-22 04:53:48] Successfully fetched inventory data for product UID: 1498321
+[2024-11-22 04:53:48] Inventory updated for product UID: 1498321 (ID: 86921)
+[2024-11-22 04:53:48] Product updated with ID: 86921 for SKU: 1498321
+[2024-11-22 04:53:48] Fetching category with UID: 10028
+[2024-11-22 04:53:49] Starting product import for SKU: 1498320
+[2024-11-22 04:53:49] Successfully fetched price data for product UID: 1498320
+[2024-11-22 04:53:49] Price updated for product UID: 1498320 (ID: 86923)
+[2024-11-22 04:53:49] Successfully fetched inventory data for product UID: 1498320
+[2024-11-22 04:53:49] Inventory updated for product UID: 1498320 (ID: 86923)
+[2024-11-22 04:53:49] Product updated with ID: 86923 for SKU: 1498320
+[2024-11-22 04:53:49] Fetching category with UID: 10028
+[2024-11-22 04:53:50] Starting product import for SKU: 1498319
+[2024-11-22 04:53:50] Successfully fetched price data for product UID: 1498319
+[2024-11-22 04:53:50] Price updated for product UID: 1498319 (ID: 86925)
+[2024-11-22 04:53:50] Successfully fetched inventory data for product UID: 1498319
+[2024-11-22 04:53:50] Inventory updated for product UID: 1498319 (ID: 86925)
+[2024-11-22 04:53:50] Product updated with ID: 86925 for SKU: 1498319
+[2024-11-22 04:53:50] Fetching category with UID: 10028
+[2024-11-22 04:53:51] Starting product import for SKU: 1498318
+[2024-11-22 04:53:51] Successfully fetched price data for product UID: 1498318
+[2024-11-22 04:53:51] Price updated for product UID: 1498318 (ID: 87202)
+[2024-11-22 04:53:51] Successfully fetched inventory data for product UID: 1498318
+[2024-11-22 04:53:51] Inventory updated for product UID: 1498318 (ID: 87202)
+[2024-11-22 04:53:51] Product updated with ID: 87202 for SKU: 1498318
+[2024-11-22 04:53:51] Fetching category with UID: 10028
+[2024-11-22 04:53:52] Starting product import for SKU: 1498317
+[2024-11-22 04:53:52] Successfully fetched price data for product UID: 1498317
+[2024-11-22 04:53:52] Price updated for product UID: 1498317 (ID: 87204)
+[2024-11-22 04:53:52] Successfully fetched inventory data for product UID: 1498317
+[2024-11-22 04:53:52] Inventory updated for product UID: 1498317 (ID: 87204)
+[2024-11-22 04:53:52] Product updated with ID: 87204 for SKU: 1498317
+[2024-11-22 04:53:52] Fetching category with UID: 10028
+[2024-11-22 04:53:53] Starting product import for SKU: 1498312
+[2024-11-22 04:53:53] Successfully fetched price data for product UID: 1498312
+[2024-11-22 04:53:53] Price updated for product UID: 1498312 (ID: 87208)
+[2024-11-22 04:53:53] Successfully fetched inventory data for product UID: 1498312
+[2024-11-22 04:53:53] Inventory updated for product UID: 1498312 (ID: 87208)
+[2024-11-22 04:53:53] Product updated with ID: 87208 for SKU: 1498312
+[2024-11-22 04:53:53] Fetching category with UID: 10028
+[2024-11-22 04:53:54] Starting product import for SKU: 1498310
+[2024-11-22 04:53:54] Successfully fetched price data for product UID: 1498310
+[2024-11-22 04:53:54] Price updated for product UID: 1498310 (ID: 87212)
+[2024-11-22 04:53:54] Successfully fetched inventory data for product UID: 1498310
+[2024-11-22 04:53:54] Inventory updated for product UID: 1498310 (ID: 87212)
+[2024-11-22 04:53:55] Product updated with ID: 87212 for SKU: 1498310
+[2024-11-22 04:53:55] Fetching category with UID: 10028
+[2024-11-22 04:53:55] Starting product import for SKU: 1498309
+[2024-11-22 04:53:55] Successfully fetched price data for product UID: 1498309
+[2024-11-22 04:53:55] Price updated for product UID: 1498309 (ID: 87429)
+[2024-11-22 04:53:56] Successfully fetched inventory data for product UID: 1498309
+[2024-11-22 04:53:56] Inventory updated for product UID: 1498309 (ID: 87429)
+[2024-11-22 04:53:56] Product updated with ID: 87429 for SKU: 1498309
+[2024-11-22 04:53:56] Fetching category with UID: 10028
+[2024-11-22 04:53:56] Starting product import for SKU: 1498308
+[2024-11-22 04:53:56] Successfully fetched price data for product UID: 1498308
+[2024-11-22 04:53:56] Price updated for product UID: 1498308 (ID: 87431)
+[2024-11-22 04:53:57] Successfully fetched inventory data for product UID: 1498308
+[2024-11-22 04:53:57] Inventory updated for product UID: 1498308 (ID: 87431)
+[2024-11-22 04:53:57] Product updated with ID: 87431 for SKU: 1498308
+[2024-11-22 04:53:57] Fetching category with UID: 11920
+[2024-11-22 04:53:57] Starting product import for SKU: 1498307
+[2024-11-22 04:53:57] Successfully fetched price data for product UID: 1498307
+[2024-11-22 04:53:57] Price updated for product UID: 1498307 (ID: 87433)
+[2024-11-22 04:53:57] Successfully fetched inventory data for product UID: 1498307
+[2024-11-22 04:53:57] Inventory updated for product UID: 1498307 (ID: 87433)
+[2024-11-22 04:53:58] Product updated with ID: 87433 for SKU: 1498307
+[2024-11-22 04:53:58] Fetching category with UID: 11920
+[2024-11-22 04:53:58] Starting product import for SKU: 1498306
+[2024-11-22 04:53:58] Successfully fetched price data for product UID: 1498306
+[2024-11-22 04:53:58] Price updated for product UID: 1498306 (ID: 87435)
+[2024-11-22 04:53:58] Successfully fetched inventory data for product UID: 1498306
+[2024-11-22 04:53:58] Inventory updated for product UID: 1498306 (ID: 87435)
+[2024-11-22 04:53:58] Product updated with ID: 87435 for SKU: 1498306
+[2024-11-22 04:53:58] Fetching category with UID: 11920
+[2024-11-22 04:53:59] Starting product import for SKU: 1498305
+[2024-11-22 04:53:59] Successfully fetched price data for product UID: 1498305
+[2024-11-22 04:53:59] Price updated for product UID: 1498305 (ID: 87437)
+[2024-11-22 04:53:59] Successfully fetched inventory data for product UID: 1498305
+[2024-11-22 04:53:59] Inventory updated for product UID: 1498305 (ID: 87437)
+[2024-11-22 04:53:59] Product updated with ID: 87437 for SKU: 1498305
+[2024-11-22 04:53:59] Fetching category with UID: 11920
+[2024-11-22 04:54:00] Starting product import for SKU: 1498304
+[2024-11-22 04:54:00] Successfully fetched price data for product UID: 1498304
+[2024-11-22 04:54:00] Price updated for product UID: 1498304 (ID: 87439)
+[2024-11-22 04:54:00] Successfully fetched inventory data for product UID: 1498304
+[2024-11-22 04:54:00] Inventory updated for product UID: 1498304 (ID: 87439)
+[2024-11-22 04:54:00] Product updated with ID: 87439 for SKU: 1498304
+[2024-11-22 04:54:00] Fetching category with UID: 11920
+[2024-11-22 04:54:01] Starting product import for SKU: 1498303
+[2024-11-22 04:54:01] Successfully fetched price data for product UID: 1498303
+[2024-11-22 04:54:01] Price updated for product UID: 1498303 (ID: 87441)
+[2024-11-22 04:54:01] Successfully fetched inventory data for product UID: 1498303
+[2024-11-22 04:54:01] Inventory updated for product UID: 1498303 (ID: 87441)
+[2024-11-22 04:54:01] Product updated with ID: 87441 for SKU: 1498303
+[2024-11-22 04:54:01] Fetching category with UID: 11920
+[2024-11-22 04:54:01] Starting product import for SKU: 1498302
+[2024-11-22 04:54:02] Successfully fetched price data for product UID: 1498302
+[2024-11-22 04:54:02] Price updated for product UID: 1498302 (ID: 87443)
+[2024-11-22 04:54:02] Successfully fetched inventory data for product UID: 1498302
+[2024-11-22 04:54:02] Inventory updated for product UID: 1498302 (ID: 87443)
+[2024-11-22 04:54:02] Product updated with ID: 87443 for SKU: 1498302
+[2024-11-22 04:54:02] Fetching category with UID: 11920
+[2024-11-22 04:54:02] Starting product import for SKU: 1498301
+[2024-11-22 04:54:03] Successfully fetched price data for product UID: 1498301
+[2024-11-22 04:54:03] Price updated for product UID: 1498301 (ID: 87445)
+[2024-11-22 04:54:03] Successfully fetched inventory data for product UID: 1498301
+[2024-11-22 04:54:03] Inventory updated for product UID: 1498301 (ID: 87445)
+[2024-11-22 04:54:03] Product updated with ID: 87445 for SKU: 1498301
+[2024-11-22 04:54:03] Fetching category with UID: 11920
+[2024-11-22 04:54:03] Starting product import for SKU: 1498300
+[2024-11-22 04:54:04] Successfully fetched price data for product UID: 1498300
+[2024-11-22 04:54:04] Price updated for product UID: 1498300 (ID: 87447)
+[2024-11-22 04:54:04] Successfully fetched inventory data for product UID: 1498300
+[2024-11-22 04:54:04] Inventory updated for product UID: 1498300 (ID: 87447)
+[2024-11-22 04:54:04] Product updated with ID: 87447 for SKU: 1498300
+[2024-11-22 04:54:04] Fetching category with UID: 11920
+[2024-11-22 04:54:04] Starting product import for SKU: 1498299
+[2024-11-22 04:54:05] Successfully fetched price data for product UID: 1498299
+[2024-11-22 04:54:05] Price updated for product UID: 1498299 (ID: 87449)
+[2024-11-22 04:54:05] Successfully fetched inventory data for product UID: 1498299
+[2024-11-22 04:54:05] Inventory updated for product UID: 1498299 (ID: 87449)
+[2024-11-22 04:54:05] Product updated with ID: 87449 for SKU: 1498299
+[2024-11-22 04:54:05] Fetching category with UID: 11920
+[2024-11-22 04:54:05] Starting product import for SKU: 1498298
+[2024-11-22 04:54:06] Successfully fetched price data for product UID: 1498298
+[2024-11-22 04:54:06] Price updated for product UID: 1498298 (ID: 87451)
+[2024-11-22 04:54:06] Successfully fetched inventory data for product UID: 1498298
+[2024-11-22 04:54:06] Inventory updated for product UID: 1498298 (ID: 87451)
+[2024-11-22 04:54:06] Product updated with ID: 87451 for SKU: 1498298
+[2024-11-22 04:54:06] Fetching category with UID: 11920
+[2024-11-22 04:54:06] Starting product import for SKU: 1498297
+[2024-11-22 04:54:06] Successfully fetched price data for product UID: 1498297
+[2024-11-22 04:54:06] Price updated for product UID: 1498297 (ID: 87453)
+[2024-11-22 04:54:07] Successfully fetched inventory data for product UID: 1498297
+[2024-11-22 04:54:07] Inventory updated for product UID: 1498297 (ID: 87453)
+[2024-11-22 04:54:07] Product updated with ID: 87453 for SKU: 1498297
+[2024-11-22 04:54:07] Fetching category with UID: 11920
+[2024-11-22 04:54:07] Starting product import for SKU: 1498296
+[2024-11-22 04:54:07] Successfully fetched price data for product UID: 1498296
+[2024-11-22 04:54:07] Price updated for product UID: 1498296 (ID: 87455)
+[2024-11-22 04:54:08] Successfully fetched inventory data for product UID: 1498296
+[2024-11-22 04:54:08] Inventory updated for product UID: 1498296 (ID: 87455)
+[2024-11-22 04:54:08] Product updated with ID: 87455 for SKU: 1498296
+[2024-11-22 04:54:08] Fetching category with UID: 11920
+[2024-11-22 04:54:08] Starting product import for SKU: 1498295
+[2024-11-22 04:54:08] Successfully fetched price data for product UID: 1498295
+[2024-11-22 04:54:08] Price updated for product UID: 1498295 (ID: 87457)
+[2024-11-22 04:54:08] Successfully fetched inventory data for product UID: 1498295
+[2024-11-22 04:54:08] Inventory updated for product UID: 1498295 (ID: 87457)
+[2024-11-22 04:54:09] Product updated with ID: 87457 for SKU: 1498295
+[2024-11-22 04:54:09] Fetching category with UID: 11920
+[2024-11-22 04:54:09] Starting product import for SKU: 1498294
+[2024-11-22 04:54:09] Successfully fetched price data for product UID: 1498294
+[2024-11-22 04:54:09] Price updated for product UID: 1498294 (ID: 87459)
+[2024-11-22 04:54:09] Successfully fetched inventory data for product UID: 1498294
+[2024-11-22 04:54:09] Inventory updated for product UID: 1498294 (ID: 87459)
+[2024-11-22 04:54:09] Product updated with ID: 87459 for SKU: 1498294
+[2024-11-22 04:54:09] Fetching category with UID: 11920
+[2024-11-22 04:54:10] Starting product import for SKU: 1498293
+[2024-11-22 04:54:10] Successfully fetched price data for product UID: 1498293
+[2024-11-22 04:54:10] Price updated for product UID: 1498293 (ID: 87461)
+[2024-11-22 04:54:10] Successfully fetched inventory data for product UID: 1498293
+[2024-11-22 04:54:10] Inventory updated for product UID: 1498293 (ID: 87461)
+[2024-11-22 04:54:10] Product updated with ID: 87461 for SKU: 1498293
+[2024-11-22 04:54:10] Fetching category with UID: 11920
+[2024-11-22 04:54:11] Starting product import for SKU: 1498292
+[2024-11-22 04:54:11] Successfully fetched price data for product UID: 1498292
+[2024-11-22 04:54:11] Price updated for product UID: 1498292 (ID: 87463)
+[2024-11-22 04:54:11] Successfully fetched inventory data for product UID: 1498292
+[2024-11-22 04:54:11] Inventory updated for product UID: 1498292 (ID: 87463)
+[2024-11-22 04:54:11] Product updated with ID: 87463 for SKU: 1498292
+[2024-11-22 04:54:11] Fetching category with UID: 11920
+[2024-11-22 04:54:11] Starting product import for SKU: 1498291
+[2024-11-22 04:54:12] Successfully fetched price data for product UID: 1498291
+[2024-11-22 04:54:12] Price updated for product UID: 1498291 (ID: 87465)
+[2024-11-22 04:54:12] Successfully fetched inventory data for product UID: 1498291
+[2024-11-22 04:54:12] Inventory updated for product UID: 1498291 (ID: 87465)
+[2024-11-22 04:54:12] Product updated with ID: 87465 for SKU: 1498291
+[2024-11-22 04:54:12] Fetching category with UID: 11920
+[2024-11-22 04:54:12] Starting product import for SKU: 1498290
+[2024-11-22 04:54:13] Successfully fetched price data for product UID: 1498290
+[2024-11-22 04:54:13] Price updated for product UID: 1498290 (ID: 87467)
+[2024-11-22 04:54:13] Successfully fetched inventory data for product UID: 1498290
+[2024-11-22 04:54:13] Inventory updated for product UID: 1498290 (ID: 87467)
+[2024-11-22 04:54:13] Product updated with ID: 87467 for SKU: 1498290
+[2024-11-22 04:54:13] Fetching category with UID: 11920
+[2024-11-22 04:54:13] Starting product import for SKU: 1498289
+[2024-11-22 04:54:14] Successfully fetched price data for product UID: 1498289
+[2024-11-22 04:54:14] Price updated for product UID: 1498289 (ID: 87469)
+[2024-11-22 04:54:14] Successfully fetched inventory data for product UID: 1498289
+[2024-11-22 04:54:14] Inventory updated for product UID: 1498289 (ID: 87469)
+[2024-11-22 04:54:14] Product updated with ID: 87469 for SKU: 1498289
+[2024-11-22 04:54:14] Fetching category with UID: 11920
+[2024-11-22 04:54:14] Starting product import for SKU: 1498288
+[2024-11-22 04:54:15] Successfully fetched price data for product UID: 1498288
+[2024-11-22 04:54:15] Price updated for product UID: 1498288 (ID: 87471)
+[2024-11-22 04:54:15] Successfully fetched inventory data for product UID: 1498288
+[2024-11-22 04:54:15] Inventory updated for product UID: 1498288 (ID: 87471)
+[2024-11-22 04:54:15] Product updated with ID: 87471 for SKU: 1498288
+[2024-11-22 04:54:15] Fetching category with UID: 11920
+[2024-11-22 04:54:15] Product not updated for SKU: 1498355. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498354. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498353. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498352. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498349. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498348. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498345. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498343. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498342. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498338. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498337. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498336. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498333. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498332. Last updated is not greater.
+[2024-11-22 04:54:15] Product not updated for SKU: 1498330. Last updated is not greater.
+[2024-11-22 04:54:15] Fetching assets for product UID: 1498327
+[2024-11-22 04:54:16] Image URL is empty for product ID: 86909
+[2024-11-22 07:22:53] Running product import via cron.
+[2024-11-22 07:22:53] Starting Import 50 products from page 36
+[2024-11-22 07:22:53] Starting product import for SKU: 1498355
+[2024-11-22 07:22:53] Successfully fetched price data for product UID: 1498355
+[2024-11-22 07:22:53] Price updated for product UID: 1498355 (ID: 86867)
+[2024-11-22 07:22:54] Successfully fetched inventory data for product UID: 1498355
+[2024-11-22 07:22:54] Inventory updated for product UID: 1498355 (ID: 86867)
+[2024-11-22 07:22:54] Product updated with ID: 86867 for SKU: 1498355
+[2024-11-22 07:22:54] Fetching category with UID: 10028
+[2024-11-22 07:22:54] Starting product import for SKU: 1498354
+[2024-11-22 07:22:54] Successfully fetched price data for product UID: 1498354
+[2024-11-22 07:22:54] Price updated for product UID: 1498354 (ID: 86869)
+[2024-11-22 07:22:55] Successfully fetched inventory data for product UID: 1498354
+[2024-11-22 07:22:55] Inventory updated for product UID: 1498354 (ID: 86869)
+[2024-11-22 07:22:55] Product updated with ID: 86869 for SKU: 1498354
+[2024-11-22 07:22:55] Fetching category with UID: 10028
+[2024-11-22 07:22:55] Starting product import for SKU: 1498353
+[2024-11-22 07:22:55] Successfully fetched price data for product UID: 1498353
+[2024-11-22 07:22:55] Price updated for product UID: 1498353 (ID: 86871)
+[2024-11-22 07:22:56] Successfully fetched inventory data for product UID: 1498353
+[2024-11-22 07:22:56] Inventory updated for product UID: 1498353 (ID: 86871)
+[2024-11-22 07:22:56] Product updated with ID: 86871 for SKU: 1498353
+[2024-11-22 07:22:56] Fetching category with UID: 10028
+[2024-11-22 07:22:56] Starting product import for SKU: 1498352
+[2024-11-22 07:22:56] Successfully fetched price data for product UID: 1498352
+[2024-11-22 07:22:56] Price updated for product UID: 1498352 (ID: 86873)
+[2024-11-22 07:22:56] Successfully fetched inventory data for product UID: 1498352
+[2024-11-22 07:22:56] Inventory updated for product UID: 1498352 (ID: 86873)
+[2024-11-22 07:22:57] Product updated with ID: 86873 for SKU: 1498352
+[2024-11-22 07:22:57] Fetching category with UID: 10028
+[2024-11-22 07:22:57] Starting product import for SKU: 1498349
+[2024-11-22 07:22:57] Successfully fetched price data for product UID: 1498349
+[2024-11-22 07:22:57] Price updated for product UID: 1498349 (ID: 86879)
+[2024-11-22 07:22:57] Successfully fetched inventory data for product UID: 1498349
+[2024-11-22 07:22:57] Inventory updated for product UID: 1498349 (ID: 86879)
+[2024-11-22 07:22:57] Product updated with ID: 86879 for SKU: 1498349
+[2024-11-22 07:22:57] Fetching category with UID: 10028
+[2024-11-22 07:22:58] Starting product import for SKU: 1498348
+[2024-11-22 07:22:58] Successfully fetched price data for product UID: 1498348
+[2024-11-22 07:22:58] Price updated for product UID: 1498348 (ID: 86881)
+[2024-11-22 07:22:58] Successfully fetched inventory data for product UID: 1498348
+[2024-11-22 07:22:58] Inventory updated for product UID: 1498348 (ID: 86881)
+[2024-11-22 07:22:58] Product updated with ID: 86881 for SKU: 1498348
+[2024-11-22 07:22:58] Fetching category with UID: 10028
+[2024-11-22 07:22:59] Starting product import for SKU: 1498345
+[2024-11-22 07:22:59] Successfully fetched price data for product UID: 1498345
+[2024-11-22 07:22:59] Price updated for product UID: 1498345 (ID: 86887)
+[2024-11-22 07:22:59] Successfully fetched inventory data for product UID: 1498345
+[2024-11-22 07:22:59] Inventory updated for product UID: 1498345 (ID: 86887)
+[2024-11-22 07:22:59] Product updated with ID: 86887 for SKU: 1498345
+[2024-11-22 07:22:59] Fetching category with UID: 10028
+[2024-11-22 07:23:00] Starting product import for SKU: 1498343
+[2024-11-22 07:23:00] Successfully fetched price data for product UID: 1498343
+[2024-11-22 07:23:00] Price updated for product UID: 1498343 (ID: 86891)
+[2024-11-22 07:23:00] Successfully fetched inventory data for product UID: 1498343
+[2024-11-22 07:23:00] Inventory updated for product UID: 1498343 (ID: 86891)
+[2024-11-22 07:23:00] Product updated with ID: 86891 for SKU: 1498343
+[2024-11-22 07:23:00] Fetching category with UID: 10028
+[2024-11-22 07:23:00] Starting product import for SKU: 1498342
+[2024-11-22 07:23:01] Successfully fetched price data for product UID: 1498342
+[2024-11-22 07:23:01] Price updated for product UID: 1498342 (ID: 86893)
+[2024-11-22 07:23:01] Successfully fetched inventory data for product UID: 1498342
+[2024-11-22 07:23:01] Inventory updated for product UID: 1498342 (ID: 86893)
+[2024-11-22 07:23:01] Product updated with ID: 86893 for SKU: 1498342
+[2024-11-22 07:23:01] Fetching category with UID: 10028
+[2024-11-22 07:23:01] Starting product import for SKU: 1498338
+[2024-11-22 07:23:02] Successfully fetched price data for product UID: 1498338
+[2024-11-22 07:23:02] Price updated for product UID: 1498338 (ID: 86895)
+[2024-11-22 07:23:02] Successfully fetched inventory data for product UID: 1498338
+[2024-11-22 07:23:02] Inventory updated for product UID: 1498338 (ID: 86895)
+[2024-11-22 07:23:02] Product updated with ID: 86895 for SKU: 1498338
+[2024-11-22 07:23:02] Fetching category with UID: 10028
+[2024-11-22 07:23:02] Starting product import for SKU: 1498337
+[2024-11-22 07:23:03] Successfully fetched price data for product UID: 1498337
+[2024-11-22 07:23:03] Price updated for product UID: 1498337 (ID: 86897)
+[2024-11-22 07:23:03] Successfully fetched inventory data for product UID: 1498337
+[2024-11-22 07:23:03] Inventory updated for product UID: 1498337 (ID: 86897)
+[2024-11-22 07:23:03] Product updated with ID: 86897 for SKU: 1498337
+[2024-11-22 07:23:03] Fetching category with UID: 10028
+[2024-11-22 07:23:03] Starting product import for SKU: 1498336
+[2024-11-22 07:23:04] Successfully fetched price data for product UID: 1498336
+[2024-11-22 07:23:04] Price updated for product UID: 1498336 (ID: 86899)
+[2024-11-22 07:23:04] Successfully fetched inventory data for product UID: 1498336
+[2024-11-22 07:23:04] Inventory updated for product UID: 1498336 (ID: 86899)
+[2024-11-22 07:23:04] Product updated with ID: 86899 for SKU: 1498336
+[2024-11-22 07:23:04] Fetching category with UID: 10028
+[2024-11-22 07:23:04] Starting product import for SKU: 1498333
+[2024-11-22 07:23:05] Successfully fetched price data for product UID: 1498333
+[2024-11-22 07:23:05] Price updated for product UID: 1498333 (ID: 86901)
+[2024-11-22 07:23:05] Successfully fetched inventory data for product UID: 1498333
+[2024-11-22 07:23:05] Inventory updated for product UID: 1498333 (ID: 86901)
+[2024-11-22 07:23:05] Product updated with ID: 86901 for SKU: 1498333
+[2024-11-22 07:23:05] Fetching category with UID: 10028
+[2024-11-22 07:23:05] Starting product import for SKU: 1498332
+[2024-11-22 07:23:06] Successfully fetched price data for product UID: 1498332
+[2024-11-22 07:23:06] Price updated for product UID: 1498332 (ID: 86903)
+[2024-11-22 07:23:06] Successfully fetched inventory data for product UID: 1498332
+[2024-11-22 07:23:06] Inventory updated for product UID: 1498332 (ID: 86903)
+[2024-11-22 07:23:06] Product updated with ID: 86903 for SKU: 1498332
+[2024-11-22 07:23:06] Fetching category with UID: 10028
+[2024-11-22 07:23:06] Starting product import for SKU: 1498330
+[2024-11-22 07:23:06] Successfully fetched price data for product UID: 1498330
+[2024-11-22 07:23:06] Price updated for product UID: 1498330 (ID: 86907)
+[2024-11-22 07:23:07] Successfully fetched inventory data for product UID: 1498330
+[2024-11-22 07:23:07] Inventory updated for product UID: 1498330 (ID: 86907)
+[2024-11-22 07:23:07] Product updated with ID: 86907 for SKU: 1498330
+[2024-11-22 07:23:07] Fetching category with UID: 10028
+[2024-11-22 07:23:07] Starting product import for SKU: 1498327
+[2024-11-22 07:23:07] Invalid price data for product UID: 1498327
+[2024-11-22 07:23:08] Successfully fetched inventory data for product UID: 1498327
+[2024-11-22 07:23:08] Inventory updated for product UID: 1498327 (ID: 86909)
+[2024-11-22 07:23:08] Product updated with ID: 86909 for SKU: 1498327
+[2024-11-22 07:23:08] Fetching category with UID: 10028
+[2024-11-22 07:23:08] Starting product import for SKU: 1498326
+[2024-11-22 07:23:08] Successfully fetched price data for product UID: 1498326
+[2024-11-22 07:23:08] Price updated for product UID: 1498326 (ID: 86911)
+[2024-11-22 07:23:08] Successfully fetched inventory data for product UID: 1498326
+[2024-11-22 07:23:08] Inventory updated for product UID: 1498326 (ID: 86911)
+[2024-11-22 07:23:08] Product updated with ID: 86911 for SKU: 1498326
+[2024-11-22 07:23:08] Fetching category with UID: 10028
+[2024-11-22 07:23:09] Starting product import for SKU: 1498325
+[2024-11-22 07:23:09] Successfully fetched price data for product UID: 1498325
+[2024-11-22 07:23:09] Price updated for product UID: 1498325 (ID: 86913)
+[2024-11-22 07:23:09] Successfully fetched inventory data for product UID: 1498325
+[2024-11-22 07:23:09] Inventory updated for product UID: 1498325 (ID: 86913)
+[2024-11-22 07:23:09] Product updated with ID: 86913 for SKU: 1498325
+[2024-11-22 07:23:09] Fetching category with UID: 10028
+[2024-11-22 07:23:10] Starting product import for SKU: 1498324
+[2024-11-22 07:23:10] Successfully fetched price data for product UID: 1498324
+[2024-11-22 07:23:10] Price updated for product UID: 1498324 (ID: 86915)
+[2024-11-22 07:23:10] Successfully fetched inventory data for product UID: 1498324
+[2024-11-22 07:23:10] Inventory updated for product UID: 1498324 (ID: 86915)
+[2024-11-22 07:23:10] Product updated with ID: 86915 for SKU: 1498324
+[2024-11-22 07:23:10] Fetching category with UID: 10028
+[2024-11-22 07:23:11] Starting product import for SKU: 1498323
+[2024-11-22 07:23:11] Successfully fetched price data for product UID: 1498323
+[2024-11-22 07:23:11] Price updated for product UID: 1498323 (ID: 86917)
+[2024-11-22 07:23:11] Successfully fetched inventory data for product UID: 1498323
+[2024-11-22 07:23:11] Inventory updated for product UID: 1498323 (ID: 86917)
+[2024-11-22 07:23:11] Product updated with ID: 86917 for SKU: 1498323
+[2024-11-22 07:23:11] Fetching category with UID: 10028
+[2024-11-22 07:23:11] Starting product import for SKU: 1498322
+[2024-11-22 07:23:12] Successfully fetched price data for product UID: 1498322
+[2024-11-22 07:23:12] Price updated for product UID: 1498322 (ID: 86919)
+[2024-11-22 07:23:12] Successfully fetched inventory data for product UID: 1498322
+[2024-11-22 07:23:12] Inventory updated for product UID: 1498322 (ID: 86919)
+[2024-11-22 07:23:12] Product updated with ID: 86919 for SKU: 1498322
+[2024-11-22 07:23:12] Fetching category with UID: 10028
+[2024-11-22 07:23:12] Starting product import for SKU: 1498321
+[2024-11-22 07:23:13] Successfully fetched price data for product UID: 1498321
+[2024-11-22 07:23:13] Price updated for product UID: 1498321 (ID: 86921)
+[2024-11-22 07:23:13] Successfully fetched inventory data for product UID: 1498321
+[2024-11-22 07:23:13] Inventory updated for product UID: 1498321 (ID: 86921)
+[2024-11-22 07:23:13] Product updated with ID: 86921 for SKU: 1498321
+[2024-11-22 07:23:13] Fetching category with UID: 10028
+[2024-11-22 07:23:13] Starting product import for SKU: 1498320
+[2024-11-22 07:23:14] Successfully fetched price data for product UID: 1498320
+[2024-11-22 07:23:14] Price updated for product UID: 1498320 (ID: 86923)
+[2024-11-22 07:23:14] Successfully fetched inventory data for product UID: 1498320
+[2024-11-22 07:23:14] Inventory updated for product UID: 1498320 (ID: 86923)
+[2024-11-22 07:23:14] Product updated with ID: 86923 for SKU: 1498320
+[2024-11-22 07:23:14] Fetching category with UID: 10028
+[2024-11-22 07:23:14] Starting product import for SKU: 1498319
+[2024-11-22 07:23:15] Successfully fetched price data for product UID: 1498319
+[2024-11-22 07:23:15] Price updated for product UID: 1498319 (ID: 86925)
+[2024-11-22 07:23:15] Successfully fetched inventory data for product UID: 1498319
+[2024-11-22 07:23:15] Inventory updated for product UID: 1498319 (ID: 86925)
+[2024-11-22 07:23:15] Product updated with ID: 86925 for SKU: 1498319
+[2024-11-22 07:23:15] Fetching category with UID: 10028
+[2024-11-22 07:23:15] Starting product import for SKU: 1498318
+[2024-11-22 07:23:15] Successfully fetched price data for product UID: 1498318
+[2024-11-22 07:23:15] Price updated for product UID: 1498318 (ID: 87202)
+[2024-11-22 07:23:16] Successfully fetched inventory data for product UID: 1498318
+[2024-11-22 07:23:16] Inventory updated for product UID: 1498318 (ID: 87202)
+[2024-11-22 07:23:16] Product updated with ID: 87202 for SKU: 1498318
+[2024-11-22 07:23:16] Fetching category with UID: 10028
+[2024-11-22 07:23:16] Starting product import for SKU: 1498317
+[2024-11-22 07:23:16] Successfully fetched price data for product UID: 1498317
+[2024-11-22 07:23:16] Price updated for product UID: 1498317 (ID: 87204)
+[2024-11-22 07:23:17] Successfully fetched inventory data for product UID: 1498317
+[2024-11-22 07:23:17] Inventory updated for product UID: 1498317 (ID: 87204)
+[2024-11-22 07:23:17] Product updated with ID: 87204 for SKU: 1498317
+[2024-11-22 07:23:17] Fetching category with UID: 10028
+[2024-11-22 07:23:17] Starting product import for SKU: 1498312
+[2024-11-22 07:23:17] Successfully fetched price data for product UID: 1498312
+[2024-11-22 07:23:17] Price updated for product UID: 1498312 (ID: 87208)
+[2024-11-22 07:23:17] Successfully fetched inventory data for product UID: 1498312
+[2024-11-22 07:23:17] Inventory updated for product UID: 1498312 (ID: 87208)
+[2024-11-22 07:23:18] Product updated with ID: 87208 for SKU: 1498312
+[2024-11-22 07:23:18] Fetching category with UID: 10028
+[2024-11-22 07:23:18] Starting product import for SKU: 1498310
+[2024-11-22 07:23:18] Successfully fetched price data for product UID: 1498310
+[2024-11-22 07:23:18] Price updated for product UID: 1498310 (ID: 87212)
+[2024-11-22 07:23:18] Successfully fetched inventory data for product UID: 1498310
+[2024-11-22 07:23:18] Inventory updated for product UID: 1498310 (ID: 87212)
+[2024-11-22 07:23:18] Product updated with ID: 87212 for SKU: 1498310
+[2024-11-22 07:23:18] Fetching category with UID: 10028
+[2024-11-22 07:23:19] Starting product import for SKU: 1498309
+[2024-11-22 07:23:19] Successfully fetched price data for product UID: 1498309
+[2024-11-22 07:23:19] Price updated for product UID: 1498309 (ID: 87429)
+[2024-11-22 07:23:19] Successfully fetched inventory data for product UID: 1498309
+[2024-11-22 07:23:19] Inventory updated for product UID: 1498309 (ID: 87429)
+[2024-11-22 07:23:19] Product updated with ID: 87429 for SKU: 1498309
+[2024-11-22 07:23:19] Fetching category with UID: 10028
+[2024-11-22 07:23:20] Starting product import for SKU: 1498308
+[2024-11-22 07:23:20] Successfully fetched price data for product UID: 1498308
+[2024-11-22 07:23:20] Price updated for product UID: 1498308 (ID: 87431)
+[2024-11-22 07:23:20] Successfully fetched inventory data for product UID: 1498308
+[2024-11-22 07:23:20] Inventory updated for product UID: 1498308 (ID: 87431)
+[2024-11-22 07:23:20] Product updated with ID: 87431 for SKU: 1498308
+[2024-11-22 07:23:20] Fetching category with UID: 11920
+[2024-11-22 07:23:20] Starting product import for SKU: 1498307
+[2024-11-22 07:23:21] Successfully fetched price data for product UID: 1498307
+[2024-11-22 07:23:21] Price updated for product UID: 1498307 (ID: 87433)
+[2024-11-22 07:23:21] Successfully fetched inventory data for product UID: 1498307
+[2024-11-22 07:23:21] Inventory updated for product UID: 1498307 (ID: 87433)
+[2024-11-22 07:23:21] Product updated with ID: 87433 for SKU: 1498307
+[2024-11-22 07:23:21] Fetching category with UID: 11920
+[2024-11-22 07:23:21] Starting product import for SKU: 1498306
+[2024-11-22 07:23:22] Successfully fetched price data for product UID: 1498306
+[2024-11-22 07:23:22] Price updated for product UID: 1498306 (ID: 87435)
+[2024-11-22 07:23:22] Successfully fetched inventory data for product UID: 1498306
+[2024-11-22 07:23:22] Inventory updated for product UID: 1498306 (ID: 87435)
+[2024-11-22 07:23:22] Product updated with ID: 87435 for SKU: 1498306
+[2024-11-22 07:23:22] Fetching category with UID: 11920
+[2024-11-22 07:23:22] Starting product import for SKU: 1498305
+[2024-11-22 07:23:22] Successfully fetched price data for product UID: 1498305
+[2024-11-22 07:23:22] Price updated for product UID: 1498305 (ID: 87437)
+[2024-11-22 07:23:23] Successfully fetched inventory data for product UID: 1498305
+[2024-11-22 07:23:23] Inventory updated for product UID: 1498305 (ID: 87437)
+[2024-11-22 07:23:23] Product updated with ID: 87437 for SKU: 1498305
+[2024-11-22 07:23:23] Fetching category with UID: 11920
+[2024-11-22 07:23:23] Starting product import for SKU: 1498304
+[2024-11-22 07:23:23] Successfully fetched price data for product UID: 1498304
+[2024-11-22 07:23:23] Price updated for product UID: 1498304 (ID: 87439)
+[2024-11-22 07:23:23] Successfully fetched inventory data for product UID: 1498304
+[2024-11-22 07:23:23] Inventory updated for product UID: 1498304 (ID: 87439)
+[2024-11-22 07:23:23] Product updated with ID: 87439 for SKU: 1498304
+[2024-11-22 07:23:23] Fetching category with UID: 11920
+[2024-11-22 07:23:24] Starting product import for SKU: 1498303
+[2024-11-22 07:23:24] Successfully fetched price data for product UID: 1498303
+[2024-11-22 07:23:24] Price updated for product UID: 1498303 (ID: 87441)
+[2024-11-22 07:23:24] Successfully fetched inventory data for product UID: 1498303
+[2024-11-22 07:23:24] Inventory updated for product UID: 1498303 (ID: 87441)
+[2024-11-22 07:23:24] Product updated with ID: 87441 for SKU: 1498303
+[2024-11-22 07:23:24] Fetching category with UID: 11920
+[2024-11-22 07:23:24] Starting product import for SKU: 1498302
+[2024-11-22 07:23:25] Successfully fetched price data for product UID: 1498302
+[2024-11-22 07:23:25] Price updated for product UID: 1498302 (ID: 87443)
+[2024-11-22 07:23:25] Successfully fetched inventory data for product UID: 1498302
+[2024-11-22 07:23:25] Inventory updated for product UID: 1498302 (ID: 87443)
+[2024-11-22 07:23:25] Product updated with ID: 87443 for SKU: 1498302
+[2024-11-22 07:23:25] Fetching category with UID: 11920
+[2024-11-22 07:23:25] Starting product import for SKU: 1498301
+[2024-11-22 07:23:26] Successfully fetched price data for product UID: 1498301
+[2024-11-22 07:23:26] Price updated for product UID: 1498301 (ID: 87445)
+[2024-11-22 07:23:26] Successfully fetched inventory data for product UID: 1498301
+[2024-11-22 07:23:26] Inventory updated for product UID: 1498301 (ID: 87445)
+[2024-11-22 07:23:26] Product updated with ID: 87445 for SKU: 1498301
+[2024-11-22 07:23:26] Fetching category with UID: 11920
+[2024-11-22 07:23:26] Starting product import for SKU: 1498300
+[2024-11-22 07:23:26] Successfully fetched price data for product UID: 1498300
+[2024-11-22 07:23:26] Price updated for product UID: 1498300 (ID: 87447)
+[2024-11-22 07:23:27] Successfully fetched inventory data for product UID: 1498300
+[2024-11-22 07:23:27] Inventory updated for product UID: 1498300 (ID: 87447)
+[2024-11-22 07:23:27] Product updated with ID: 87447 for SKU: 1498300
+[2024-11-22 07:23:27] Fetching category with UID: 11920
+[2024-11-22 07:23:27] Starting product import for SKU: 1498299
+[2024-11-22 07:23:27] Successfully fetched price data for product UID: 1498299
+[2024-11-22 07:23:27] Price updated for product UID: 1498299 (ID: 87449)
+[2024-11-22 07:23:27] Successfully fetched inventory data for product UID: 1498299
+[2024-11-22 07:23:27] Inventory updated for product UID: 1498299 (ID: 87449)
+[2024-11-22 07:23:27] Product updated with ID: 87449 for SKU: 1498299
+[2024-11-22 07:23:27] Fetching category with UID: 11920
+[2024-11-22 07:23:28] Starting product import for SKU: 1498298
+[2024-11-22 07:23:28] Successfully fetched price data for product UID: 1498298
+[2024-11-22 07:23:28] Price updated for product UID: 1498298 (ID: 87451)
+[2024-11-22 07:23:28] Successfully fetched inventory data for product UID: 1498298
+[2024-11-22 07:23:28] Inventory updated for product UID: 1498298 (ID: 87451)
+[2024-11-22 07:23:28] Product updated with ID: 87451 for SKU: 1498298
+[2024-11-22 07:23:28] Fetching category with UID: 11920
+[2024-11-22 07:23:28] Starting product import for SKU: 1498297
+[2024-11-22 07:23:29] Successfully fetched price data for product UID: 1498297
+[2024-11-22 07:23:29] Price updated for product UID: 1498297 (ID: 87453)
+[2024-11-22 07:23:29] Successfully fetched inventory data for product UID: 1498297
+[2024-11-22 07:23:29] Inventory updated for product UID: 1498297 (ID: 87453)
+[2024-11-22 07:23:29] Product updated with ID: 87453 for SKU: 1498297
+[2024-11-22 07:23:29] Fetching category with UID: 11920
+[2024-11-22 07:23:29] Starting product import for SKU: 1498296
+[2024-11-22 07:23:30] Successfully fetched price data for product UID: 1498296
+[2024-11-22 07:23:30] Price updated for product UID: 1498296 (ID: 87455)
+[2024-11-22 07:23:30] Successfully fetched inventory data for product UID: 1498296
+[2024-11-22 07:23:30] Inventory updated for product UID: 1498296 (ID: 87455)
+[2024-11-22 07:23:30] Product updated with ID: 87455 for SKU: 1498296
+[2024-11-22 07:23:30] Fetching category with UID: 11920
+[2024-11-22 07:23:30] Starting product import for SKU: 1498295
+[2024-11-22 07:23:30] Successfully fetched price data for product UID: 1498295
+[2024-11-22 07:23:30] Price updated for product UID: 1498295 (ID: 87457)
+[2024-11-22 07:23:31] Successfully fetched inventory data for product UID: 1498295
+[2024-11-22 07:23:31] Inventory updated for product UID: 1498295 (ID: 87457)
+[2024-11-22 07:23:31] Product updated with ID: 87457 for SKU: 1498295
+[2024-11-22 07:23:31] Fetching category with UID: 11920
+[2024-11-22 07:23:31] Starting product import for SKU: 1498294
+[2024-11-22 07:23:31] Successfully fetched price data for product UID: 1498294
+[2024-11-22 07:23:31] Price updated for product UID: 1498294 (ID: 87459)
+[2024-11-22 07:23:31] Successfully fetched inventory data for product UID: 1498294
+[2024-11-22 07:23:31] Inventory updated for product UID: 1498294 (ID: 87459)
+[2024-11-22 07:23:31] Product updated with ID: 87459 for SKU: 1498294
+[2024-11-22 07:23:31] Fetching category with UID: 11920
+[2024-11-22 07:23:32] Starting product import for SKU: 1498293
+[2024-11-22 07:23:32] Successfully fetched price data for product UID: 1498293
+[2024-11-22 07:23:32] Price updated for product UID: 1498293 (ID: 87461)
+[2024-11-22 07:23:32] Successfully fetched inventory data for product UID: 1498293
+[2024-11-22 07:23:32] Inventory updated for product UID: 1498293 (ID: 87461)
+[2024-11-22 07:23:32] Product updated with ID: 87461 for SKU: 1498293
+[2024-11-22 07:23:32] Fetching category with UID: 11920
+[2024-11-22 07:23:32] Starting product import for SKU: 1498292
+[2024-11-22 07:23:33] Successfully fetched price data for product UID: 1498292
+[2024-11-22 07:23:33] Price updated for product UID: 1498292 (ID: 87463)
+[2024-11-22 07:23:33] Successfully fetched inventory data for product UID: 1498292
+[2024-11-22 07:23:33] Inventory updated for product UID: 1498292 (ID: 87463)
+[2024-11-22 07:23:33] Product updated with ID: 87463 for SKU: 1498292
+[2024-11-22 07:23:33] Fetching category with UID: 11920
+[2024-11-22 07:23:33] Starting product import for SKU: 1498291
+[2024-11-22 07:23:34] Successfully fetched price data for product UID: 1498291
+[2024-11-22 07:23:34] Price updated for product UID: 1498291 (ID: 87465)
+[2024-11-22 07:23:34] Successfully fetched inventory data for product UID: 1498291
+[2024-11-22 07:23:34] Inventory updated for product UID: 1498291 (ID: 87465)
+[2024-11-22 07:23:34] Product updated with ID: 87465 for SKU: 1498291
+[2024-11-22 07:23:34] Fetching category with UID: 11920
+[2024-11-22 07:23:34] Starting product import for SKU: 1498290
+[2024-11-22 07:23:34] Successfully fetched price data for product UID: 1498290
+[2024-11-22 07:23:34] Price updated for product UID: 1498290 (ID: 87467)
+[2024-11-22 07:23:35] Successfully fetched inventory data for product UID: 1498290
+[2024-11-22 07:23:35] Inventory updated for product UID: 1498290 (ID: 87467)
+[2024-11-22 07:23:35] Product updated with ID: 87467 for SKU: 1498290
+[2024-11-22 07:23:35] Fetching category with UID: 11920
+[2024-11-22 07:23:35] Starting product import for SKU: 1498289
+[2024-11-22 07:23:35] Successfully fetched price data for product UID: 1498289
+[2024-11-22 07:23:35] Price updated for product UID: 1498289 (ID: 87469)
+[2024-11-22 07:23:35] Successfully fetched inventory data for product UID: 1498289
+[2024-11-22 07:23:35] Inventory updated for product UID: 1498289 (ID: 87469)
+[2024-11-22 07:23:35] Product updated with ID: 87469 for SKU: 1498289
+[2024-11-22 07:23:35] Fetching category with UID: 11920
+[2024-11-22 07:23:36] Starting product import for SKU: 1498288
+[2024-11-22 07:23:36] Successfully fetched price data for product UID: 1498288
+[2024-11-22 07:23:36] Price updated for product UID: 1498288 (ID: 87471)
+[2024-11-22 07:23:36] Successfully fetched inventory data for product UID: 1498288
+[2024-11-22 07:23:36] Inventory updated for product UID: 1498288 (ID: 87471)
+[2024-11-22 07:23:36] Product updated with ID: 87471 for SKU: 1498288
+[2024-11-22 07:23:36] Fetching category with UID: 11920
+[2024-11-22 07:23:36] Product not updated for SKU: 1498355. Last updated is not greater.
+[2024-11-22 07:23:36] Product not updated for SKU: 1498354. Last updated is not greater.
+[2024-11-22 07:23:36] Product not updated for SKU: 1498353. Last updated is not greater.
+[2024-11-22 07:23:36] Product not updated for SKU: 1498352. Last updated is not greater.
+[2024-11-22 07:23:36] Product not updated for SKU: 1498349. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498348. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498345. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498343. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498342. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498338. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498337. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498336. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498333. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498332. Last updated is not greater.
+[2024-11-22 07:23:37] Product not updated for SKU: 1498330. Last updated is not greater.
+[2024-11-22 07:23:37] Fetching assets for product UID: 1498327
+[2024-11-22 07:23:37] Image URL is empty for product ID: 86909
+[2024-11-22 08:19:38] Running product import via cron.
+[2024-11-22 08:19:38] Starting Import 50 products from page 36
+[2024-11-22 08:19:38] Starting product import for SKU: 1498349
+[2024-11-22 08:19:39] Successfully fetched price data for product UID: 1498349
+[2024-11-22 08:19:39] Price updated for product UID: 1498349 (ID: 86879)
+[2024-11-22 08:19:39] Successfully fetched inventory data for product UID: 1498349
+[2024-11-22 08:19:39] Inventory updated for product UID: 1498349 (ID: 86879)
+[2024-11-22 08:19:39] Product updated with ID: 86879 for SKU: 1498349
+[2024-11-22 08:19:39] Fetching category with UID: 10028
+[2024-11-22 08:19:39] Starting product import for SKU: 1498348
+[2024-11-22 08:19:40] Successfully fetched price data for product UID: 1498348
+[2024-11-22 08:19:40] Price updated for product UID: 1498348 (ID: 86881)
+[2024-11-22 08:19:40] Successfully fetched inventory data for product UID: 1498348
+[2024-11-22 08:19:40] Inventory updated for product UID: 1498348 (ID: 86881)
+[2024-11-22 08:19:40] Product updated with ID: 86881 for SKU: 1498348
+[2024-11-22 08:19:40] Fetching category with UID: 10028
+[2024-11-22 08:19:40] Starting product import for SKU: 1498345
+[2024-11-22 08:19:41] Successfully fetched price data for product UID: 1498345
+[2024-11-22 08:19:41] Price updated for product UID: 1498345 (ID: 86887)
+[2024-11-22 08:19:41] Successfully fetched inventory data for product UID: 1498345
+[2024-11-22 08:19:41] Inventory updated for product UID: 1498345 (ID: 86887)
+[2024-11-22 08:19:41] Product updated with ID: 86887 for SKU: 1498345
+[2024-11-22 08:19:41] Fetching category with UID: 10028
