@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Custom Product Importer
-Plugin URI: https://harismaqsood.com
+Plugin URI: https://github.com/HafizHamzaCS/api-product-importer
 Description: A plugin to import the product from the third party API.
 Version: 1.0
-Author: Haris Maqsood.
-Author URI: https://harismaqsood.com
+Author: Hafiz Hamza 
+Author URI: https://github.com/HafizHamzaCS/api-product-importer
 Text Domain: hs-api-product-import
 */
 
@@ -17,10 +17,36 @@ set_time_limit(1200); // Increase the execution time to 1200 seconds
 
 
 define("HS_PLUGIN_DIR", plugin_dir_path(__FILE__) );
-
+include "includes/class-hs-cron.php";
+include "includes/class-hs-api-logger.php";
+include "includes/class-hs-product-importer.php";
+/**
+ * Registers a function to schedule a cron job when the plugin is activated.
+ *
+ * @return void
+ */
+register_activation_hook(__FILE__, function() {
+    $hs_cron = new HS_Cron();
+    $hs_cron->schedule_cron(); // Call non-statically
+});
+/**
+ * Registers a function to deactivate the cron job when the plugin is deactivated.
+ *
+ * @return void
+ */
+register_deactivation_hook(__FILE__, function() {
+    $hs_cron = new HS_Cron();
+    $hs_cron->deactivate(); // Call non-statically
+});
 // Hook to add settings page to the admin menu
 add_action('admin_menu', 'pis_add_settings_page');
-
+/**
+ * Adds a settings page for the plugin to the WordPress admin menu.
+ *
+ * @hooked to admin_menu action hook
+ *
+ * @return void
+ */
 function pis_add_settings_page() {
     add_menu_page(  // Page title
         'Product Import Settings', // Page title
@@ -32,8 +58,12 @@ function pis_add_settings_page() {
         20                         // Position in the menu
     );
 }
-
-// Function to render the settings page
+/**
+ * Renders the settings page for the "Product Import" plugin.
+ * Handles form submissions and saves the settings.
+ *
+ * @return void
+ */
 function pis_settings_page_html() {
     if (!current_user_can('manage_options')) {
         return;
@@ -153,21 +183,10 @@ function pis_settings_page_html() {
 }
 
 
-include "includes/class-hs-cron.php";
-include "includes/class-hs-api-logger.php";
-include "includes/class-hs-product-importer.php";
 
-
-// Register CRON on activation
-register_activation_hook(__FILE__, function() {
-	$hs_cron = new HS_Cron();
-	$hs_cron->schedule_cron(); // Call non-statically
-});
-
-// Deactivate CRON on deactivation
-register_deactivation_hook(__FILE__, function() {
-	$hs_cron = new HS_Cron();
-	$hs_cron->deactivate(); // Call non-statically
-});
-
+/**
+ * Initializes the HS_Cron class to handle the cron job functionality.
+ *
+ * @return void
+ */
 new HS_Cron();
